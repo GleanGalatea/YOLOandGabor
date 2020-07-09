@@ -170,9 +170,9 @@ if __name__ == "__main__":
         save_best_only=True,
         period=5,
     )
-    reduce_lr = ReduceLROnPlateau(monitor="val_loss", factor=0.1, patience=3, verbose=1)
+    reduce_lr = ReduceLROnPlateau(monitor="val_loss", factor=0.1, patience=2, verbose=1)
     early_stopping = EarlyStopping(
-        monitor="val_loss", min_delta=0, patience=10, verbose=1
+        monitor="val_loss", min_delta=0, patience=5, verbose=1
     )
 
     val_split = FLAGS.val_split

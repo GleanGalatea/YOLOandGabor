@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "4efa0eba06145b15c2df9b7f964d78a4",
+        "name": "nug%20-%20f.jpg",
+        "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20f.jpg",
+        "size": {
+            "width": 988,
+            "height": 1481
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "nIgSNCPnx",
+            "type": "RECTANGLE",
+            "tags": [
+                "Face"
+            ],
+            "boundingBox": {
+                "height": 422.49386503067484,
+                "width": 406.5563218390804,
+                "left": 297.5001436781609,
+                "top": 374.79294478527606
+            },
+            "points": [
+                {
+                    "x": 297.5001436781609,
+                    "y": 374.79294478527606
+                },
+                {
+                    "x": 704.0564655172413,
+                    "y": 374.79294478527606
+                },
+                {
+                    "x": 704.0564655172413,
+                    "y": 797.286809815951
+                },
+                {
+                    "x": 297.5001436781609,
+                    "y": 797.286809815951
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

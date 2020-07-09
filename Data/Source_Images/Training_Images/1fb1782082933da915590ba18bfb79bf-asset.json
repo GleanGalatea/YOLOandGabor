@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "1fb1782082933da915590ba18bfb79bf",
+        "name": "reni%20-%20k.jpg",
+        "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20k.jpg",
+        "size": {
+            "width": 923,
+            "height": 1384
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "U2R4C-yXX",
+            "type": "RECTANGLE",
+            "tags": [
+                "Face"
+            ],
+            "boundingBox": {
+                "height": 358.73619631901846,
+                "width": 292.81379310344823,
+                "left": 315.9882543103448,
+                "top": 343.87730061349697
+            },
+            "points": [
+                {
+                    "x": 315.9882543103448,
+                    "y": 343.87730061349697
+                },
+                {
+                    "x": 608.802047413793,
+                    "y": 343.87730061349697
+                },
+                {
+                    "x": 608.802047413793,
+                    "y": 702.6134969325154
+                },
+                {
+                    "x": 315.9882543103448,
+                    "y": 702.6134969325154
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

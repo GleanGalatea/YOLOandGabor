@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "054e5a232ff4ffba062f033af5be36bb",
+        "name": "azmi%20-%20o.jpg",
+        "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20o.jpg",
+        "size": {
+            "width": 919,
+            "height": 1379
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "3t4wZ7C1e",
+            "type": "RECTANGLE",
+            "tags": [
+                "Face"
+            ],
+            "boundingBox": {
+                "height": 456.84662576687117,
+                "width": 424.64137931034486,
+                "left": 200.2059985632184,
+                "top": 219.96319018404907
+            },
+            "points": [
+                {
+                    "x": 200.2059985632184,
+                    "y": 219.96319018404907
+                },
+                {
+                    "x": 624.8473778735632,
+                    "y": 219.96319018404907
+                },
+                {
+                    "x": 624.8473778735632,
+                    "y": 676.8098159509202
+                },
+                {
+                    "x": 200.2059985632184,
+                    "y": 676.8098159509202
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "19860cb7d5c8a82a2b8f6acf1d7d2e1e",
+        "name": "sasen%20-%20a.jpg",
+        "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20a.jpg",
+        "size": {
+            "width": 1400,
+            "height": 2099
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "M9YRJp3DK",
+            "type": "RECTANGLE",
+            "tags": [
+                "Face"
+            ],
+            "boundingBox": {
+                "height": 595.5751533742332,
+                "width": 492.4137931034483,
+                "left": 469.68390804597703,
+                "top": 354.12576687116564
+            },
+            "points": [
+                {
+                    "x": 469.68390804597703,
+                    "y": 354.12576687116564
+                },
+                {
+                    "x": 962.0977011494253,
+                    "y": 354.12576687116564
+                },
+                {
+                    "x": 962.0977011494253,
+                    "y": 949.7009202453988
+                },
+                {
+                    "x": 469.68390804597703,
+                    "y": 949.7009202453988
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

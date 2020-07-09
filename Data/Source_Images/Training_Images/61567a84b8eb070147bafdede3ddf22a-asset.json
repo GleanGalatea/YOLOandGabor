@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "61567a84b8eb070147bafdede3ddf22a",
+        "name": "pur%20-%20r.jpg",
+        "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20r.jpg",
+        "size": {
+            "width": 859,
+            "height": 1288
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "SYY3G86us",
+            "type": "RECTANGLE",
+            "tags": [
+                "Face"
+            ],
+            "boundingBox": {
+                "height": 337.80368098159505,
+                "width": 349.5241379310345,
+                "left": 226.93767959770116,
+                "top": 302.2453987730061
+            },
+            "points": [
+                {
+                    "x": 226.93767959770116,
+                    "y": 302.2453987730061
+                },
+                {
+                    "x": 576.4618175287357,
+                    "y": 302.2453987730061
+                },
+                {
+                    "x": 576.4618175287357,
+                    "y": 640.0490797546012
+                },
+                {
+                    "x": 226.93767959770116,
+                    "y": 640.0490797546012
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

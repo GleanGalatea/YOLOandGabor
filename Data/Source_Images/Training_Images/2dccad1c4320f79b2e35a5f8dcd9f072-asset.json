@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2dccad1c4320f79b2e35a5f8dcd9f072",
+        "name": "dian%20-%20q.jpg",
+        "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dian%20-%20q.jpg",
+        "size": {
+            "width": 842,
+            "height": 1263
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "DXBPxRCIi",
+            "type": "RECTANGLE",
+            "tags": [
+                "Face"
+            ],
+            "boundingBox": {
+                "height": 426.16564417177915,
+                "width": 301.95862068965516,
+                "left": 241.65158045977012,
+                "top": 178.21472392638037
+            },
+            "points": [
+                {
+                    "x": 241.65158045977012,
+                    "y": 178.21472392638037
+                },
+                {
+                    "x": 543.6102011494253,
+                    "y": 178.21472392638037
+                },
+                {
+                    "x": 543.6102011494253,
+                    "y": 604.3803680981595
+                },
+                {
+                    "x": 241.65158045977012,
+                    "y": 604.3803680981595
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

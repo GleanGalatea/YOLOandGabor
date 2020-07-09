@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "53e49f1e11ea2f70bb8c0d7d1020b7db",
+        "name": "dela%20-%20e.jpg",
+        "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20e.jpg",
+        "size": {
+            "width": 892,
+            "height": 1337
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "xQiuGZAbu",
+            "type": "RECTANGLE",
+            "tags": [
+                "Face"
+            ],
+            "boundingBox": {
+                "height": 412.1733128834356,
+                "width": 280.9287356321839,
+                "left": 483.935632183908,
+                "top": 172.2515337423313
+            },
+            "points": [
+                {
+                    "x": 483.935632183908,
+                    "y": 172.2515337423313
+                },
+                {
+                    "x": 764.8643678160919,
+                    "y": 172.2515337423313
+                },
+                {
+                    "x": 764.8643678160919,
+                    "y": 584.4248466257669
+                },
+                {
+                    "x": 483.935632183908,
+                    "y": 584.4248466257669
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

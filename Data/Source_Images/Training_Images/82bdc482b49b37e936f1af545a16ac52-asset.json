@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "82bdc482b49b37e936f1af545a16ac52",
+        "name": "puy%20-%20j.jpg",
+        "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20j.jpg",
+        "size": {
+            "width": 1099,
+            "height": 1649
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "BKoTcl55p",
+            "type": "RECTANGLE",
+            "tags": [
+                "Face"
+            ],
+            "boundingBox": {
+                "height": 526.0613496932515,
+                "width": 396.6505747126437,
+                "left": 340.5163074712644,
+                "top": 288.32208588957053
+            },
+            "points": [
+                {
+                    "x": 340.5163074712644,
+                    "y": 288.32208588957053
+                },
+                {
+                    "x": 737.1668821839081,
+                    "y": 288.32208588957053
+                },
+                {
+                    "x": 737.1668821839081,
+                    "y": 814.383435582822
+                },
+                {
+                    "x": 340.5163074712644,
+                    "y": 814.383435582822
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

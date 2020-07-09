@@ -1,0 +1,3237 @@
+{
+    "name": "Annotations",
+    "securityToken": "Annotations Token",
+    "sourceConnection": {
+        "name": "Image",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiY2EwYjhhYTVmMTgxNzM1ODgyYWM0MmVjNWJmNDQ1MGUwNTc5ZmYzOGRhYTU0MGY5YjhlMjU2NzBiZjBhZmRhZDljZDkwMDE3MjNmM2FkYjEyODQ4NTI5ZjcwYThkN2QzMTc1MmJlODVmNWJiMTM1NWVkYmMzYzI4Njg1MzQyM2JiYTE2OGMzNWFkNWY1Mzc0ODBhNTVjYjJiMDk0NTdlYTZkNGNiMTg5NDRlMzg2ZDJkNzJmMjNlZWU5Mzc3ODk3IiwiaXYiOiJiOGZkZjEyMmQxOTI2NzE3M2ZiZGFhNjBhYmYyMDg0MDRiNmI3ZWI1YzVjZWQ2YmMifQ=="
+        },
+        "id": "rnvmOcCtJ"
+    },
+    "targetConnection": {
+        "name": "Images",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNzRjNWY5Yzg0ZDU3YjRiMzU3MzZlMDE4YTY1NzIwYjBiMGVhNjFiOGUwNzU0MDBiM2Q2ODU0Yjc2NmFlZTdhMDQzODhkNWY2ZDA0MzQ1MGFjMzQ2MGMzMjgxMWNhYWI1ZDNhN2ZkNTAyZDMxMjAwOGRjYzAxYTViOTQ4YTI4YWFkYjQwMDVhM2I5YTJhZThjOTQwMDJhYmM2MjVhZjQ3NmRlYzdiOGNlZWI3NDBlYjg1ZDJkMTMyNTdjMmQyN2MwIiwiaXYiOiJiMWU0NTRmYTYxNTM4ZWFkOWI5YmVhNzU2MzQ0ZWZiZmJjYmVlZDc1YmViNmE4ODEifQ=="
+        },
+        "id": "rnvmOcCtJ"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Face",
+            "color": "#5db300"
+        }
+    ],
+    "id": "2VIkFu4il",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYWU1NjdkMTRhNjBkNGE3MDgyNmQ0NjBkYmQ1NzBjNzI4ZWEwNWFhMGUxYjJjYzMyODA0ZjRhYTJjMzI4ZDQ4ZjhhN2JkZmY4ODk2ZWU2ZDgwNTNlY2UwYjg3MzJmOThiIiwiaXYiOiIzNjNjMWU1NWFiYjE5ZjZjNTI3OTM3ZmJkMWM5NjlhNDVhYTU5MTA0NjBhNzhkYmYifQ=="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "9d9cc8e0e8b85a6ccb047a972182f0cf",
+    "assets": {
+        "bf267b60b9eef131bf432704a08b0599": {
+            "format": "jpg",
+            "id": "bf267b60b9eef131bf432704a08b0599",
+            "name": "azmi%20-%20a.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20a.jpg",
+            "size": {
+                "width": 1134,
+                "height": 1702
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e19806a1da781b17232f9a065cd5dc41": {
+            "format": "jpg",
+            "id": "e19806a1da781b17232f9a065cd5dc41",
+            "name": "azmi%20-%20b.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20b.jpg",
+            "size": {
+                "width": 929,
+                "height": 1394
+            },
+            "state": 2,
+            "type": 1
+        },
+        "54962133d19973627b4f86c6aa714054": {
+            "format": "jpg",
+            "id": "54962133d19973627b4f86c6aa714054",
+            "name": "azmi%20-%20c.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20c.jpg",
+            "size": {
+                "width": 905,
+                "height": 1358
+            },
+            "state": 2,
+            "type": 1
+        },
+        "508561b2a0bbf06cca825fddb2ade12c": {
+            "format": "jpg",
+            "id": "508561b2a0bbf06cca825fddb2ade12c",
+            "name": "azmi%20-%20d.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20d.jpg",
+            "size": {
+                "width": 850,
+                "height": 1274
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5de15469f760abf46b28cbdd4f291cfb": {
+            "format": "jpg",
+            "id": "5de15469f760abf46b28cbdd4f291cfb",
+            "name": "azmi%20-%20e.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20e.jpg",
+            "size": {
+                "width": 1054,
+                "height": 1581
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a067774698eb2b57744fe20b210dc501": {
+            "format": "jpg",
+            "id": "a067774698eb2b57744fe20b210dc501",
+            "name": "azmi%20-%20f.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20f.jpg",
+            "size": {
+                "width": 991,
+                "height": 1487
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cbbb3735936e0c73f0c7472a0f112585": {
+            "format": "jpg",
+            "id": "cbbb3735936e0c73f0c7472a0f112585",
+            "name": "azmi%20-%20g.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20g.jpg",
+            "size": {
+                "width": 900,
+                "height": 1349
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6e4024d9f887fb2e9c40577054ecd55b": {
+            "format": "jpg",
+            "id": "6e4024d9f887fb2e9c40577054ecd55b",
+            "name": "azmi%20-%20h.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20h.jpg",
+            "size": {
+                "width": 941,
+                "height": 1412
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9c1f7d97b19bd2fc290ca483fcf85265": {
+            "format": "jpg",
+            "id": "9c1f7d97b19bd2fc290ca483fcf85265",
+            "name": "azmi%20-%20i.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20i.jpg",
+            "size": {
+                "width": 902,
+                "height": 1353
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bccbfc7ee7e42fca7a837f4bf99278b5": {
+            "format": "jpg",
+            "id": "bccbfc7ee7e42fca7a837f4bf99278b5",
+            "name": "azmi%20-%20j.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20j.jpg",
+            "size": {
+                "width": 787,
+                "height": 1181
+            },
+            "state": 2,
+            "type": 1
+        },
+        "66d81a0a926b6d7e61a9e638d845b74b": {
+            "format": "jpg",
+            "id": "66d81a0a926b6d7e61a9e638d845b74b",
+            "name": "azmi%20-%20k.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20k.jpg",
+            "size": {
+                "width": 843,
+                "height": 1264
+            },
+            "state": 2,
+            "type": 1
+        },
+        "813b3c42ffbe6482c818d630a5c182c6": {
+            "format": "jpg",
+            "id": "813b3c42ffbe6482c818d630a5c182c6",
+            "name": "azmi%20-%20l.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20l.jpg",
+            "size": {
+                "width": 1008,
+                "height": 1513
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8db5f7096ea6ea490bdd00032a6aafd3": {
+            "format": "jpg",
+            "id": "8db5f7096ea6ea490bdd00032a6aafd3",
+            "name": "azmi%20-%20m.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20m.jpg",
+            "size": {
+                "width": 939,
+                "height": 1408
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d11e23171eef3d59c4d67a4a927d7319": {
+            "format": "jpg",
+            "id": "d11e23171eef3d59c4d67a4a927d7319",
+            "name": "azmi%20-%20n.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20n.jpg",
+            "size": {
+                "width": 984,
+                "height": 1475
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dc9f5396f81ccaf082a253e0ac40df3e": {
+            "format": "jpg",
+            "id": "dc9f5396f81ccaf082a253e0ac40df3e",
+            "name": "azmi%20-%20p.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20p.jpg",
+            "size": {
+                "width": 909,
+                "height": 1364
+            },
+            "state": 2,
+            "type": 1
+        },
+        "054e5a232ff4ffba062f033af5be36bb": {
+            "format": "jpg",
+            "id": "054e5a232ff4ffba062f033af5be36bb",
+            "name": "azmi%20-%20o.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20o.jpg",
+            "size": {
+                "width": 919,
+                "height": 1379
+            },
+            "state": 2,
+            "type": 1
+        },
+        "be808542d4526d7f096a0d0f906304f6": {
+            "format": "jpg",
+            "id": "be808542d4526d7f096a0d0f906304f6",
+            "name": "azmi%20-%20q.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20q.jpg",
+            "size": {
+                "width": 994,
+                "height": 1490
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bb4e0f6880cb7e77f6020e9237c56d63": {
+            "format": "jpg",
+            "id": "bb4e0f6880cb7e77f6020e9237c56d63",
+            "name": "dela%20-%20c.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20c.jpg",
+            "size": {
+                "width": 899,
+                "height": 1349
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ba5127d3d225f3122cca4cf738ef9376": {
+            "format": "jpg",
+            "id": "ba5127d3d225f3122cca4cf738ef9376",
+            "name": "azmi%20-%20r.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20r.jpg",
+            "size": {
+                "width": 956,
+                "height": 1434
+            },
+            "state": 2,
+            "type": 1
+        },
+        "137e209d481d96ccbd9fd744657071b5": {
+            "format": "jpg",
+            "id": "137e209d481d96ccbd9fd744657071b5",
+            "name": "azmi%20-%20s.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/azmi%20-%20s.jpg",
+            "size": {
+                "width": 1019,
+                "height": 1529
+            },
+            "state": 2,
+            "type": 1
+        },
+        "73abb075a56eb481c47e74fbef366fa4": {
+            "format": "jpg",
+            "id": "73abb075a56eb481c47e74fbef366fa4",
+            "name": "dela%20-%20a.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20a.jpg",
+            "size": {
+                "width": 968,
+                "height": 1452
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5d16b3b509b3f8370975fe0dbdb2f7fd": {
+            "format": "jpg",
+            "id": "5d16b3b509b3f8370975fe0dbdb2f7fd",
+            "name": "dela%20-%20b.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20b.jpg",
+            "size": {
+                "width": 865,
+                "height": 1297
+            },
+            "state": 2,
+            "type": 1
+        },
+        "274bdcc206ca589a70da0156c4530f82": {
+            "format": "jpg",
+            "id": "274bdcc206ca589a70da0156c4530f82",
+            "name": "dela%20-%20d.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20d.jpg",
+            "size": {
+                "width": 970,
+                "height": 1454
+            },
+            "state": 2,
+            "type": 1
+        },
+        "53e49f1e11ea2f70bb8c0d7d1020b7db": {
+            "format": "jpg",
+            "id": "53e49f1e11ea2f70bb8c0d7d1020b7db",
+            "name": "dela%20-%20e.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20e.jpg",
+            "size": {
+                "width": 892,
+                "height": 1337
+            },
+            "state": 2,
+            "type": 1
+        },
+        "af04a55d6130c79d1aa60b45651fa69d": {
+            "format": "jpg",
+            "id": "af04a55d6130c79d1aa60b45651fa69d",
+            "name": "dela%20-%20f.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20f.jpg",
+            "size": {
+                "width": 948,
+                "height": 1423
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4940115e3c87ec474561cad21e5aa531": {
+            "format": "jpg",
+            "id": "4940115e3c87ec474561cad21e5aa531",
+            "name": "dela%20-%20g.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20g.jpg",
+            "size": {
+                "width": 919,
+                "height": 1378
+            },
+            "state": 2,
+            "type": 1
+        },
+        "43a81a92cf37f6b7c5cb9cf554927d1b": {
+            "format": "jpg",
+            "id": "43a81a92cf37f6b7c5cb9cf554927d1b",
+            "name": "dela%20-%20h.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20h.jpg",
+            "size": {
+                "width": 958,
+                "height": 1438
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2652a02d17a4c62e1beb1f367a420201": {
+            "format": "jpg",
+            "id": "2652a02d17a4c62e1beb1f367a420201",
+            "name": "dela%20-%20i.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20i.jpg",
+            "size": {
+                "width": 973,
+                "height": 1460
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7775b6acc62c29d18d391b9625305800": {
+            "format": "jpg",
+            "id": "7775b6acc62c29d18d391b9625305800",
+            "name": "dela%20-%20j.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20j.jpg",
+            "size": {
+                "width": 972,
+                "height": 1457
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d27e5a339d4e7074facd3c68cbb55615": {
+            "format": "jpg",
+            "id": "d27e5a339d4e7074facd3c68cbb55615",
+            "name": "dela%20-%20k.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20k.jpg",
+            "size": {
+                "width": 880,
+                "height": 1320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "05ff80409db5df1753044d7788b51247": {
+            "format": "jpg",
+            "id": "05ff80409db5df1753044d7788b51247",
+            "name": "dela%20-%20l.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20l.jpg",
+            "size": {
+                "width": 963,
+                "height": 1445
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e1749356de27514d4571a5fdf7ef5e54": {
+            "format": "jpg",
+            "id": "e1749356de27514d4571a5fdf7ef5e54",
+            "name": "dela%20-%20m.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20m.jpg",
+            "size": {
+                "width": 964,
+                "height": 1447
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e67c23ab0b59093adb0290013d64ba11": {
+            "format": "jpg",
+            "id": "e67c23ab0b59093adb0290013d64ba11",
+            "name": "dela%20-%20n.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20n.jpg",
+            "size": {
+                "width": 944,
+                "height": 1416
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8be5905f4285c9e76b7713d28a85f2ba": {
+            "format": "jpg",
+            "id": "8be5905f4285c9e76b7713d28a85f2ba",
+            "name": "dela%20-%20o.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20o.jpg",
+            "size": {
+                "width": 965,
+                "height": 1449
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f87bea7829a06d218b7b093514465412": {
+            "format": "jpg",
+            "id": "f87bea7829a06d218b7b093514465412",
+            "name": "dela%20-%20p.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20p.jpg",
+            "size": {
+                "width": 840,
+                "height": 1260
+            },
+            "state": 2,
+            "type": 1
+        },
+        "882859aeae149cbeb5714a65c801336f": {
+            "format": "jpg",
+            "id": "882859aeae149cbeb5714a65c801336f",
+            "name": "dela%20-%20q.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20q.jpg",
+            "size": {
+                "width": 970,
+                "height": 1456
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9f0ee9901897aec378124573d3dbca95": {
+            "format": "jpg",
+            "id": "9f0ee9901897aec378124573d3dbca95",
+            "name": "dela%20-%20r.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20r.jpg",
+            "size": {
+                "width": 915,
+                "height": 1373
+            },
+            "state": 2,
+            "type": 1
+        },
+        "273b3b46d26f66188b5824795403b0d1": {
+            "format": "jpg",
+            "id": "273b3b46d26f66188b5824795403b0d1",
+            "name": "dela%20-%20s.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20s.jpg",
+            "size": {
+                "width": 1008,
+                "height": 1512
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2dccad1c4320f79b2e35a5f8dcd9f072": {
+            "format": "jpg",
+            "id": "2dccad1c4320f79b2e35a5f8dcd9f072",
+            "name": "dian%20-%20q.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dian%20-%20q.jpg",
+            "size": {
+                "width": 842,
+                "height": 1263
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c07afba50216a5b6b69bcb348fd8b1c9": {
+            "format": "jpg",
+            "id": "c07afba50216a5b6b69bcb348fd8b1c9",
+            "name": "dimas%20-%20a.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20a.jpg",
+            "size": {
+                "width": 1184,
+                "height": 1775
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2ce258ee1c78aba4aa2c04d196b8cd45": {
+            "format": "jpg",
+            "id": "2ce258ee1c78aba4aa2c04d196b8cd45",
+            "name": "dimas%20-%20b.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20b.jpg",
+            "size": {
+                "width": 1259,
+                "height": 1888
+            },
+            "state": 2,
+            "type": 1
+        },
+        "269531f9a1604ab9004fd5e448e5a391": {
+            "format": "jpg",
+            "id": "269531f9a1604ab9004fd5e448e5a391",
+            "name": "dimas%20-%20c.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20c.jpg",
+            "size": {
+                "width": 1263,
+                "height": 1895
+            },
+            "state": 2,
+            "type": 1
+        },
+        "df8fa2afa20a30df973093c74e1b7130": {
+            "format": "jpg",
+            "id": "df8fa2afa20a30df973093c74e1b7130",
+            "name": "dimas%20-%20d.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20d.jpg",
+            "size": {
+                "width": 1244,
+                "height": 1866
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ffd680e06afacd67a2fc52f01ea85928": {
+            "format": "jpg",
+            "id": "ffd680e06afacd67a2fc52f01ea85928",
+            "name": "dimas%20-%20e.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20e.jpg",
+            "size": {
+                "width": 1122,
+                "height": 1683
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d0214cdbebb111957dbebbc81513f705": {
+            "format": "jpg",
+            "id": "d0214cdbebb111957dbebbc81513f705",
+            "name": "dimas%20-%20f.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20f.jpg",
+            "size": {
+                "width": 1103,
+                "height": 1654
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bae9d7aa83e4a14de745058633f73749": {
+            "format": "jpg",
+            "id": "bae9d7aa83e4a14de745058633f73749",
+            "name": "dimas%20-%20g.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20g.jpg",
+            "size": {
+                "width": 1179,
+                "height": 1769
+            },
+            "state": 2,
+            "type": 1
+        },
+        "30bb1f0441d1bed56c5eb0ad9132b85b": {
+            "format": "jpg",
+            "id": "30bb1f0441d1bed56c5eb0ad9132b85b",
+            "name": "dimas%20-%20h.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20h.jpg",
+            "size": {
+                "width": 1136,
+                "height": 1705
+            },
+            "state": 2,
+            "type": 1
+        },
+        "de61cf5a918836d59f96be8e808e44c8": {
+            "format": "jpg",
+            "id": "de61cf5a918836d59f96be8e808e44c8",
+            "name": "dimas%20-%20i.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20i.jpg",
+            "size": {
+                "width": 1152,
+                "height": 1728
+            },
+            "state": 2,
+            "type": 1
+        },
+        "57caf762a0a9f344174df9261fc1766b": {
+            "format": "jpg",
+            "id": "57caf762a0a9f344174df9261fc1766b",
+            "name": "dimas%20-%20j.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20j.jpg",
+            "size": {
+                "width": 1208,
+                "height": 1812
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d20ca9db61ec72563e5c7f893d5e5f5f": {
+            "format": "jpg",
+            "id": "d20ca9db61ec72563e5c7f893d5e5f5f",
+            "name": "dimas%20-%20k.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20k.jpg",
+            "size": {
+                "width": 1181,
+                "height": 1771
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7e7653a75d4b11faef8ce3bbcbb6436d": {
+            "format": "jpg",
+            "id": "7e7653a75d4b11faef8ce3bbcbb6436d",
+            "name": "dimas%20-%20l.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20l.jpg",
+            "size": {
+                "width": 1244,
+                "height": 1866
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ae9cb65e88b09fb161dd9b8914bc1ef4": {
+            "format": "jpg",
+            "id": "ae9cb65e88b09fb161dd9b8914bc1ef4",
+            "name": "dimas%20-%20m.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20m.jpg",
+            "size": {
+                "width": 1244,
+                "height": 1866
+            },
+            "state": 2,
+            "type": 1
+        },
+        "04b31f266cfa78988898a684360492eb": {
+            "format": "jpg",
+            "id": "04b31f266cfa78988898a684360492eb",
+            "name": "dimas%20-%20n.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20n.jpg",
+            "size": {
+                "width": 1215,
+                "height": 1823
+            },
+            "state": 2,
+            "type": 1
+        },
+        "88a1999fb79975ae4b16b83ad9e858d5": {
+            "format": "jpg",
+            "id": "88a1999fb79975ae4b16b83ad9e858d5",
+            "name": "dimas%20-%20o.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20o.jpg",
+            "size": {
+                "width": 1196,
+                "height": 1795
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c224a1a72473c9eeddd098e1e2dcf015": {
+            "format": "jpg",
+            "id": "c224a1a72473c9eeddd098e1e2dcf015",
+            "name": "dimas%20-%20p.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20p.jpg",
+            "size": {
+                "width": 1173,
+                "height": 1760
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9dee8109922c05b87c57bdc02fc27751": {
+            "format": "jpg",
+            "id": "9dee8109922c05b87c57bdc02fc27751",
+            "name": "dimas%20-%20q.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20q.jpg",
+            "size": {
+                "width": 1216,
+                "height": 1823
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cb06e0eda0366b22020480bf55a4e53f": {
+            "format": "jpg",
+            "id": "cb06e0eda0366b22020480bf55a4e53f",
+            "name": "dimas%20-%20r.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20r.jpg",
+            "size": {
+                "width": 1176,
+                "height": 1763
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a25a9edd766ef662f1c0bc6e4b48886b": {
+            "format": "jpg",
+            "id": "a25a9edd766ef662f1c0bc6e4b48886b",
+            "name": "dimas%20-%20s.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20s.jpg",
+            "size": {
+                "width": 1186,
+                "height": 1779
+            },
+            "state": 2,
+            "type": 1
+        },
+        "806f7e1bd13f862a65060a02440d8354": {
+            "format": "jpg",
+            "id": "806f7e1bd13f862a65060a02440d8354",
+            "name": "dina%20-%20a.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dina%20-%20a.jpg",
+            "size": {
+                "width": 942,
+                "height": 1414
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1049350e3a0036e526c69895025edf47": {
+            "format": "jpg",
+            "id": "1049350e3a0036e526c69895025edf47",
+            "name": "dina%20-%20b.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dina%20-%20b.jpg",
+            "size": {
+                "width": 958,
+                "height": 1438
+            },
+            "state": 2,
+            "type": 1
+        },
+        "53ef2bbe52ca73981df016ac10a19db0": {
+            "format": "jpg",
+            "id": "53ef2bbe52ca73981df016ac10a19db0",
+            "name": "dina%20-%20c.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dina%20-%20c.jpg",
+            "size": {
+                "width": 949,
+                "height": 1423
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0fb08d9ee81a78ec2f62d894d279281a": {
+            "format": "jpg",
+            "id": "0fb08d9ee81a78ec2f62d894d279281a",
+            "name": "dina%20-%20d.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dina%20-%20d.jpg",
+            "size": {
+                "width": 855,
+                "height": 1283
+            },
+            "state": 2,
+            "type": 1
+        },
+        "480a5b4bba3aacd3305e9dd09824618c": {
+            "format": "jpg",
+            "id": "480a5b4bba3aacd3305e9dd09824618c",
+            "name": "dina%20-%20e.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dina%20-%20e.jpg",
+            "size": {
+                "width": 964,
+                "height": 1447
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b1ca181257bea6352a1b93e29ccd922a": {
+            "format": "jpg",
+            "id": "b1ca181257bea6352a1b93e29ccd922a",
+            "name": "dina%20-%20f.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dina%20-%20f.jpg",
+            "size": {
+                "width": 909,
+                "height": 1363
+            },
+            "state": 2,
+            "type": 1
+        },
+        "68a0dc8143a1395cb1710dcf4b58022e": {
+            "format": "jpg",
+            "id": "68a0dc8143a1395cb1710dcf4b58022e",
+            "name": "dina%20-%20g.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dina%20-%20g.jpg",
+            "size": {
+                "width": 1032,
+                "height": 1548
+            },
+            "state": 2,
+            "type": 1
+        },
+        "80d561e0b6e2c63b50fa1e1501074e61": {
+            "format": "jpg",
+            "id": "80d561e0b6e2c63b50fa1e1501074e61",
+            "name": "dina%20-%20h.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dina%20-%20h.jpg",
+            "size": {
+                "width": 890,
+                "height": 1334
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a84b368ab5ad7e067a1063482c91dea9": {
+            "format": "jpg",
+            "id": "a84b368ab5ad7e067a1063482c91dea9",
+            "name": "dina%20-%20i.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dina%20-%20i.jpg",
+            "size": {
+                "width": 934,
+                "height": 1401
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f38346d13eef02934d1e5ac75c81111e": {
+            "format": "jpg",
+            "id": "f38346d13eef02934d1e5ac75c81111e",
+            "name": "dina%20-%20j.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dina%20-%20j.jpg",
+            "size": {
+                "width": 933,
+                "height": 1400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "08b3780129ecbdfeb384678759f2f2a7": {
+            "format": "jpg",
+            "id": "08b3780129ecbdfeb384678759f2f2a7",
+            "name": "dina%20-%20k.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dina%20-%20k.jpg",
+            "size": {
+                "width": 963,
+                "height": 1445
+            },
+            "state": 2,
+            "type": 1
+        },
+        "033808da65b8ff16768b8d5c55fc07a8": {
+            "format": "jpg",
+            "id": "033808da65b8ff16768b8d5c55fc07a8",
+            "name": "dina%20-%20l.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dina%20-%20l.jpg",
+            "size": {
+                "width": 913,
+                "height": 1369
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5e5176dabe77333f4726bd5195c81973": {
+            "format": "jpg",
+            "id": "5e5176dabe77333f4726bd5195c81973",
+            "name": "dina%20-%20m.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dina%20-%20m.jpg",
+            "size": {
+                "width": 859,
+                "height": 1288
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b03099ef7708fa24924d3f14edb1e634": {
+            "format": "jpg",
+            "id": "b03099ef7708fa24924d3f14edb1e634",
+            "name": "dina%20-%20n.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dina%20-%20n.jpg",
+            "size": {
+                "width": 915,
+                "height": 1373
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e70a4a34e3d79a72e30ecc29965d5916": {
+            "format": "jpg",
+            "id": "e70a4a34e3d79a72e30ecc29965d5916",
+            "name": "dina%20-%20o.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dina%20-%20o.jpg",
+            "size": {
+                "width": 910,
+                "height": 1366
+            },
+            "state": 2,
+            "type": 1
+        },
+        "687f9ed7ac4eadb58845672584bd1b75": {
+            "format": "jpg",
+            "id": "687f9ed7ac4eadb58845672584bd1b75",
+            "name": "dina%20-%20p.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dina%20-%20p.jpg",
+            "size": {
+                "width": 944,
+                "height": 1415
+            },
+            "state": 2,
+            "type": 1
+        },
+        "167248820b1d185fb6e3898d24843997": {
+            "format": "jpg",
+            "id": "167248820b1d185fb6e3898d24843997",
+            "name": "dina%20-%20r.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dina%20-%20r.jpg",
+            "size": {
+                "width": 1005,
+                "height": 1507
+            },
+            "state": 2,
+            "type": 1
+        },
+        "79601bde3c2e33849e4ab1958d919b26": {
+            "format": "jpg",
+            "id": "79601bde3c2e33849e4ab1958d919b26",
+            "name": "dina%20-%20s.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dina%20-%20s.jpg",
+            "size": {
+                "width": 880,
+                "height": 1320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7b75a906b0e1f0567234dcd49f068786": {
+            "format": "jpg",
+            "id": "7b75a906b0e1f0567234dcd49f068786",
+            "name": "fachrul%20-%20a.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20a.jpg",
+            "size": {
+                "width": 949,
+                "height": 1423
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0403dfe4696c2b8d568d0e1d42232dbe": {
+            "format": "jpg",
+            "id": "0403dfe4696c2b8d568d0e1d42232dbe",
+            "name": "fachrul%20-%20b.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20b.jpg",
+            "size": {
+                "width": 882,
+                "height": 1322
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a9f78a00d0c627ee5eaa2ab08c657bec": {
+            "format": "jpg",
+            "id": "a9f78a00d0c627ee5eaa2ab08c657bec",
+            "name": "fachrul%20-%20c.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20c.jpg",
+            "size": {
+                "width": 771,
+                "height": 1157
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b924df00aa0b36361a6b5e2a48e74fa2": {
+            "format": "jpg",
+            "id": "b924df00aa0b36361a6b5e2a48e74fa2",
+            "name": "fachrul%20-%20d.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20d.jpg",
+            "size": {
+                "width": 769,
+                "height": 1153
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0b889f231a35dbbde4c66e925c1ae729": {
+            "format": "jpg",
+            "id": "0b889f231a35dbbde4c66e925c1ae729",
+            "name": "fachrul%20-%20e.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20e.jpg",
+            "size": {
+                "width": 864,
+                "height": 1296
+            },
+            "state": 2,
+            "type": 1
+        },
+        "566d9065c7891a97f4e6a27f4d069b5f": {
+            "format": "jpg",
+            "id": "566d9065c7891a97f4e6a27f4d069b5f",
+            "name": "fachrul%20-%20f.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20f.jpg",
+            "size": {
+                "width": 920,
+                "height": 1381
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7c3f66d2e8c9119b8c2e1da77fc0499a": {
+            "format": "jpg",
+            "id": "7c3f66d2e8c9119b8c2e1da77fc0499a",
+            "name": "fachrul%20-%20g.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20g.jpg",
+            "size": {
+                "width": 852,
+                "height": 1277
+            },
+            "state": 2,
+            "type": 1
+        },
+        "103496d979fb06ac5bd92484ce465d6e": {
+            "format": "jpg",
+            "id": "103496d979fb06ac5bd92484ce465d6e",
+            "name": "fachrul%20-%20h.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20h.jpg",
+            "size": {
+                "width": 880,
+                "height": 1320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0f3eb5da3250668c94983e890e5e4c6d": {
+            "format": "jpg",
+            "id": "0f3eb5da3250668c94983e890e5e4c6d",
+            "name": "fachrul%20-%20i.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20i.jpg",
+            "size": {
+                "width": 858,
+                "height": 1288
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aecda32af51f7e30cebb1fbdaf63faee": {
+            "format": "jpg",
+            "id": "aecda32af51f7e30cebb1fbdaf63faee",
+            "name": "fachrul%20-%20j.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20j.jpg",
+            "size": {
+                "width": 755,
+                "height": 1132
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d1ee9b3e3057dfaf305f85b14412c043": {
+            "format": "jpg",
+            "id": "d1ee9b3e3057dfaf305f85b14412c043",
+            "name": "fachrul%20-%20k.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20k.jpg",
+            "size": {
+                "width": 813,
+                "height": 1220
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d23c8a3e851ac1b50f689f033550b17f": {
+            "format": "jpg",
+            "id": "d23c8a3e851ac1b50f689f033550b17f",
+            "name": "fachrul%20-%20l.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20l.jpg",
+            "size": {
+                "width": 940,
+                "height": 1409
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c65940c6e8cf72865e67b0cc690ba221": {
+            "format": "jpg",
+            "id": "c65940c6e8cf72865e67b0cc690ba221",
+            "name": "fachrul%20-%20m.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20m.jpg",
+            "size": {
+                "width": 887,
+                "height": 1331
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6644e1cb955e0e83c5a4adea5c43ced0": {
+            "format": "jpg",
+            "id": "6644e1cb955e0e83c5a4adea5c43ced0",
+            "name": "fachrul%20-%20n.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20n.jpg",
+            "size": {
+                "width": 975,
+                "height": 1463
+            },
+            "state": 2,
+            "type": 1
+        },
+        "72938217de724b5629785c720a1f980c": {
+            "format": "jpg",
+            "id": "72938217de724b5629785c720a1f980c",
+            "name": "fachrul%20-%20o.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20o.jpg",
+            "size": {
+                "width": 916,
+                "height": 1373
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4c05d1bdb2614546cf4c15f7a1e7b1b4": {
+            "format": "jpg",
+            "id": "4c05d1bdb2614546cf4c15f7a1e7b1b4",
+            "name": "fachrul%20-%20p.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20p.jpg",
+            "size": {
+                "width": 944,
+                "height": 1416
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e2ce539c2e79d192b77c4d1ab45344e7": {
+            "format": "jpg",
+            "id": "e2ce539c2e79d192b77c4d1ab45344e7",
+            "name": "fachrul%20-%20q.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20q.jpg",
+            "size": {
+                "width": 948,
+                "height": 1421
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aeba9076bc94336c1c990c2fc0bf2a3a": {
+            "format": "jpg",
+            "id": "aeba9076bc94336c1c990c2fc0bf2a3a",
+            "name": "fachrul%20-%20r.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20r.jpg",
+            "size": {
+                "width": 927,
+                "height": 1390
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2a86e4a3e2d58a066ba8fca7d2fc8c18": {
+            "format": "jpg",
+            "id": "2a86e4a3e2d58a066ba8fca7d2fc8c18",
+            "name": "fachrul%20-%20s.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20s.jpg",
+            "size": {
+                "width": 1044,
+                "height": 1566
+            },
+            "state": 2,
+            "type": 1
+        },
+        "474447cc1fd9abe3b65cecd24bb0f10c": {
+            "format": "jpg",
+            "id": "474447cc1fd9abe3b65cecd24bb0f10c",
+            "name": "hilmi%20-%20a.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20a.jpg",
+            "size": {
+                "width": 840,
+                "height": 1260
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7cb2f98ba6ba79ec9634b22c8855bee7": {
+            "format": "jpg",
+            "id": "7cb2f98ba6ba79ec9634b22c8855bee7",
+            "name": "hilmi%20-%20b.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20b.jpg",
+            "size": {
+                "width": 874,
+                "height": 1312
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0cbd1381903b3505909fa8eda761e83e": {
+            "format": "jpg",
+            "id": "0cbd1381903b3505909fa8eda761e83e",
+            "name": "hilmi%20-%20c.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20c.jpg",
+            "size": {
+                "width": 907,
+                "height": 1359
+            },
+            "state": 2,
+            "type": 1
+        },
+        "836cd36835968d7a50e516fc75682c68": {
+            "format": "jpg",
+            "id": "836cd36835968d7a50e516fc75682c68",
+            "name": "hilmi%20-%20d.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20d.jpg",
+            "size": {
+                "width": 891,
+                "height": 1337
+            },
+            "state": 2,
+            "type": 1
+        },
+        "711a90484f456659193b14c91df2d9b4": {
+            "format": "jpg",
+            "id": "711a90484f456659193b14c91df2d9b4",
+            "name": "hilmi%20-%20e.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20e.jpg",
+            "size": {
+                "width": 859,
+                "height": 1288
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e274ca5e129940204803f13409e5c14b": {
+            "format": "jpg",
+            "id": "e274ca5e129940204803f13409e5c14b",
+            "name": "hilmi%20-%20f.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20f.jpg",
+            "size": {
+                "width": 798,
+                "height": 1197
+            },
+            "state": 2,
+            "type": 1
+        },
+        "07e6e7e9946bded039c36e12133830c7": {
+            "format": "jpg",
+            "id": "07e6e7e9946bded039c36e12133830c7",
+            "name": "hilmi%20-%20g.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20g.jpg",
+            "size": {
+                "width": 859,
+                "height": 1288
+            },
+            "state": 2,
+            "type": 1
+        },
+        "63fef8737df00842f292c3d66ea63f7a": {
+            "format": "jpg",
+            "id": "63fef8737df00842f292c3d66ea63f7a",
+            "name": "hilmi%20-%20h.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20h.jpg",
+            "size": {
+                "width": 790,
+                "height": 1184
+            },
+            "state": 2,
+            "type": 1
+        },
+        "869719be1e06a44403e909ad756ea03f": {
+            "format": "jpg",
+            "id": "869719be1e06a44403e909ad756ea03f",
+            "name": "hilmi%20-%20i.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20i.jpg",
+            "size": {
+                "width": 838,
+                "height": 1256
+            },
+            "state": 2,
+            "type": 1
+        },
+        "39cad7db79fdfcc30b9b1e126c441da1": {
+            "format": "jpg",
+            "id": "39cad7db79fdfcc30b9b1e126c441da1",
+            "name": "hilmi%20-%20j.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20j.jpg",
+            "size": {
+                "width": 903,
+                "height": 1354
+            },
+            "state": 2,
+            "type": 1
+        },
+        "64396f523bfcede2194fd009efd48499": {
+            "format": "jpg",
+            "id": "64396f523bfcede2194fd009efd48499",
+            "name": "hilmi%20-%20k.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20k.jpg",
+            "size": {
+                "width": 938,
+                "height": 1406
+            },
+            "state": 2,
+            "type": 1
+        },
+        "522b43fd9f1552e43c5e6b03caec3346": {
+            "format": "jpg",
+            "id": "522b43fd9f1552e43c5e6b03caec3346",
+            "name": "hilmi%20-%20l.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20l.jpg",
+            "size": {
+                "width": 902,
+                "height": 1353
+            },
+            "state": 2,
+            "type": 1
+        },
+        "33c28edb0e18c65873ac007b6c6c9b1d": {
+            "format": "jpg",
+            "id": "33c28edb0e18c65873ac007b6c6c9b1d",
+            "name": "hilmi%20-%20m.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20m.jpg",
+            "size": {
+                "width": 799,
+                "height": 1197
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b73efc8e2da3663629d495c031c333a4": {
+            "format": "jpg",
+            "id": "b73efc8e2da3663629d495c031c333a4",
+            "name": "hilmi%20-%20n.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20n.jpg",
+            "size": {
+                "width": 884,
+                "height": 1327
+            },
+            "state": 2,
+            "type": 1
+        },
+        "283de01d5bed66d1ae52e19cdcad5f39": {
+            "format": "jpg",
+            "id": "283de01d5bed66d1ae52e19cdcad5f39",
+            "name": "hilmi%20-%20o.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20o.jpg",
+            "size": {
+                "width": 807,
+                "height": 1211
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f4f29b0a879351d68b441da9ffdf194a": {
+            "format": "jpg",
+            "id": "f4f29b0a879351d68b441da9ffdf194a",
+            "name": "hilmi%20-%20p.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20p.jpg",
+            "size": {
+                "width": 859,
+                "height": 1289
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8fd3ff81cd21b4edd4aab48d2c053c2c": {
+            "format": "jpg",
+            "id": "8fd3ff81cd21b4edd4aab48d2c053c2c",
+            "name": "hilmi%20-%20q.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20q.jpg",
+            "size": {
+                "width": 922,
+                "height": 1383
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9a6bc07d8cabefe393df32a8913f4a4b": {
+            "format": "jpg",
+            "id": "9a6bc07d8cabefe393df32a8913f4a4b",
+            "name": "hilmi%20-%20r.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20r.jpg",
+            "size": {
+                "width": 820,
+                "height": 1231
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d1d26e96e70dee2ac6dc8ab1316b767a": {
+            "format": "jpg",
+            "id": "d1d26e96e70dee2ac6dc8ab1316b767a",
+            "name": "hilmi%20-%20s.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20s.jpg",
+            "size": {
+                "width": 913,
+                "height": 1370
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dcc163a4923e7f552a2cb77db986204b": {
+            "format": "jpg",
+            "id": "dcc163a4923e7f552a2cb77db986204b",
+            "name": "khey%20-%20a.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20a.jpg",
+            "size": {
+                "width": 950,
+                "height": 1425
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a4e0e439063b70eec892e7b97bb56f7f": {
+            "format": "jpg",
+            "id": "a4e0e439063b70eec892e7b97bb56f7f",
+            "name": "khey%20-%20b.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20b.jpg",
+            "size": {
+                "width": 962,
+                "height": 1442
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b89d4ac086546e9b6c645366997c41f": {
+            "format": "jpg",
+            "id": "3b89d4ac086546e9b6c645366997c41f",
+            "name": "khey%20-%20c.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20c.jpg",
+            "size": {
+                "width": 926,
+                "height": 1388
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da8f995d6620e89fc7cb62758d6ca7fd": {
+            "format": "jpg",
+            "id": "da8f995d6620e89fc7cb62758d6ca7fd",
+            "name": "khey%20-%20d.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20d.jpg",
+            "size": {
+                "width": 907,
+                "height": 1360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "381f75ae430641d99d74949e0c8c2bcc": {
+            "format": "jpg",
+            "id": "381f75ae430641d99d74949e0c8c2bcc",
+            "name": "khey%20-%20e.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20e.jpg",
+            "size": {
+                "width": 965,
+                "height": 1448
+            },
+            "state": 2,
+            "type": 1
+        },
+        "327ae840ce9bdd1475d3590bfe4ee7c6": {
+            "format": "jpg",
+            "id": "327ae840ce9bdd1475d3590bfe4ee7c6",
+            "name": "khey%20-%20f.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20f.jpg",
+            "size": {
+                "width": 959,
+                "height": 1437
+            },
+            "state": 2,
+            "type": 1
+        },
+        "567295647c4033326c3ebdd53aecd3a8": {
+            "format": "jpg",
+            "id": "567295647c4033326c3ebdd53aecd3a8",
+            "name": "khey%20-%20g.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20g.jpg",
+            "size": {
+                "width": 917,
+                "height": 1375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "787ddb0a9d51e9fdee218d9330e732bc": {
+            "format": "jpg",
+            "id": "787ddb0a9d51e9fdee218d9330e732bc",
+            "name": "khey%20-%20h.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20h.jpg",
+            "size": {
+                "width": 856,
+                "height": 1285
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b67e69779e0f8b51003835931985091": {
+            "format": "jpg",
+            "id": "3b67e69779e0f8b51003835931985091",
+            "name": "khey%20-%20i.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20i.jpg",
+            "size": {
+                "width": 910,
+                "height": 1366
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d7a6e27a8ed3734bd7a2a71d45b336b7": {
+            "format": "jpg",
+            "id": "d7a6e27a8ed3734bd7a2a71d45b336b7",
+            "name": "khey%20-%20j.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20j.jpg",
+            "size": {
+                "width": 931,
+                "height": 1397
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7980a28ba99e16b1bb00ed6f3dfd7026": {
+            "format": "jpg",
+            "id": "7980a28ba99e16b1bb00ed6f3dfd7026",
+            "name": "khey%20-%20k.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20k.jpg",
+            "size": {
+                "width": 983,
+                "height": 1475
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c8f315ec8788bc9a2e5728a55863a8ae": {
+            "format": "jpg",
+            "id": "c8f315ec8788bc9a2e5728a55863a8ae",
+            "name": "khey%20-%20l.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20l.jpg",
+            "size": {
+                "width": 842,
+                "height": 1262
+            },
+            "state": 2,
+            "type": 1
+        },
+        "affcfe480ac142445e31158c7b697ef2": {
+            "format": "jpg",
+            "id": "affcfe480ac142445e31158c7b697ef2",
+            "name": "khey%20-%20m.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20m.jpg",
+            "size": {
+                "width": 876,
+                "height": 1314
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dcfd0ac83c08cd34530fa1fa668973ac": {
+            "format": "jpg",
+            "id": "dcfd0ac83c08cd34530fa1fa668973ac",
+            "name": "khey%20-%20n.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20n.jpg",
+            "size": {
+                "width": 878,
+                "height": 1316
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7af838c5f19faae4a03ec43b3cee6a33": {
+            "format": "jpg",
+            "id": "7af838c5f19faae4a03ec43b3cee6a33",
+            "name": "khey%20-%20o.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20o.jpg",
+            "size": {
+                "width": 919,
+                "height": 1378
+            },
+            "state": 2,
+            "type": 1
+        },
+        "43dc9da5272fe1c5648f8a91b31502a8": {
+            "format": "jpg",
+            "id": "43dc9da5272fe1c5648f8a91b31502a8",
+            "name": "khey%20-%20p.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20p.jpg",
+            "size": {
+                "width": 1005,
+                "height": 1507
+            },
+            "state": 2,
+            "type": 1
+        },
+        "79cdfbf7d393d2fb7a444f456088829a": {
+            "format": "jpg",
+            "id": "79cdfbf7d393d2fb7a444f456088829a",
+            "name": "khey%20-%20q.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20q.jpg",
+            "size": {
+                "width": 966,
+                "height": 1450
+            },
+            "state": 2,
+            "type": 1
+        },
+        "510e51e68c74e534324919eda089c93f": {
+            "format": "jpg",
+            "id": "510e51e68c74e534324919eda089c93f",
+            "name": "khey%20-%20r.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20r.jpg",
+            "size": {
+                "width": 904,
+                "height": 1356
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d8046f486e422d8d4ceaef2bb97f3971": {
+            "format": "jpg",
+            "id": "d8046f486e422d8d4ceaef2bb97f3971",
+            "name": "khey%20-%20s.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20s.jpg",
+            "size": {
+                "width": 904,
+                "height": 1356
+            },
+            "state": 2,
+            "type": 1
+        },
+        "76300d46e06492d2b9a907827020541d": {
+            "format": "jpg",
+            "id": "76300d46e06492d2b9a907827020541d",
+            "name": "mei%20-%20a.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20a.jpg",
+            "size": {
+                "width": 934,
+                "height": 1401
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d58c09bf64b376094462530bb0c6b96a": {
+            "format": "jpg",
+            "id": "d58c09bf64b376094462530bb0c6b96a",
+            "name": "mei%20-%20b.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20b.jpg",
+            "size": {
+                "width": 795,
+                "height": 1193
+            },
+            "state": 2,
+            "type": 1
+        },
+        "69c3fd291b35b40574e6c847beeff6c8": {
+            "format": "jpg",
+            "id": "69c3fd291b35b40574e6c847beeff6c8",
+            "name": "mei%20-%20c.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20c.jpg",
+            "size": {
+                "width": 903,
+                "height": 1355
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a83cd149694dc59949541453f0425eb4": {
+            "format": "jpg",
+            "id": "a83cd149694dc59949541453f0425eb4",
+            "name": "mei%20-%20d.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20d.jpg",
+            "size": {
+                "width": 910,
+                "height": 1365
+            },
+            "state": 2,
+            "type": 1
+        },
+        "90f6ac6b8aa9dd03d75286a147b2e60e": {
+            "format": "jpg",
+            "id": "90f6ac6b8aa9dd03d75286a147b2e60e",
+            "name": "mei%20-%20e.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20e.jpg",
+            "size": {
+                "width": 810,
+                "height": 1216
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4fd3253f6d49300b5da043fa15fb23a6": {
+            "format": "jpg",
+            "id": "4fd3253f6d49300b5da043fa15fb23a6",
+            "name": "mei%20-%20f.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20f.jpg",
+            "size": {
+                "width": 873,
+                "height": 1310
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a9fc1109edd0ba7c280273532f341205": {
+            "format": "jpg",
+            "id": "a9fc1109edd0ba7c280273532f341205",
+            "name": "mei%20-%20g.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20g.jpg",
+            "size": {
+                "width": 900,
+                "height": 1349
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a41476f6266f3483956819817b14c4e0": {
+            "format": "jpg",
+            "id": "a41476f6266f3483956819817b14c4e0",
+            "name": "mei%20-%20h.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20h.jpg",
+            "size": {
+                "width": 908,
+                "height": 1361
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f9ba0ee7b0b7fee2df7aba4871ba668a": {
+            "format": "jpg",
+            "id": "f9ba0ee7b0b7fee2df7aba4871ba668a",
+            "name": "mei%20-%20i.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20i.jpg",
+            "size": {
+                "width": 866,
+                "height": 1298
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6b79a8008f4c86f58d13ae76f7d0b327": {
+            "format": "jpg",
+            "id": "6b79a8008f4c86f58d13ae76f7d0b327",
+            "name": "mei%20-%20j.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20j.jpg",
+            "size": {
+                "width": 880,
+                "height": 1321
+            },
+            "state": 2,
+            "type": 1
+        },
+        "05e40a62868181f972c1a1a5785f644b": {
+            "format": "jpg",
+            "id": "05e40a62868181f972c1a1a5785f644b",
+            "name": "mei%20-%20k.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20k.jpg",
+            "size": {
+                "width": 880,
+                "height": 1320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f2395a76658459e47d11cc97e2451e81": {
+            "format": "jpg",
+            "id": "f2395a76658459e47d11cc97e2451e81",
+            "name": "mei%20-%20l.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20l.jpg",
+            "size": {
+                "width": 882,
+                "height": 1324
+            },
+            "state": 2,
+            "type": 1
+        },
+        "966b3fbb1ca08833513adc72e3a30c86": {
+            "format": "jpg",
+            "id": "966b3fbb1ca08833513adc72e3a30c86",
+            "name": "mei%20-%20m.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20m.jpg",
+            "size": {
+                "width": 1004,
+                "height": 1505
+            },
+            "state": 2,
+            "type": 1
+        },
+        "845e13000d7c87672ff1fbeeeecf38ee": {
+            "format": "jpg",
+            "id": "845e13000d7c87672ff1fbeeeecf38ee",
+            "name": "mei%20-%20n.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20n.jpg",
+            "size": {
+                "width": 902,
+                "height": 1353
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c13e5d85372bf947e608bfbf7bde3df6": {
+            "format": "jpg",
+            "id": "c13e5d85372bf947e608bfbf7bde3df6",
+            "name": "mei%20-%20o.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20o.jpg",
+            "size": {
+                "width": 949,
+                "height": 1423
+            },
+            "state": 2,
+            "type": 1
+        },
+        "66c3185c0bb9032c60539046d0eb36cb": {
+            "format": "jpg",
+            "id": "66c3185c0bb9032c60539046d0eb36cb",
+            "name": "mei%20-%20p.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20p.jpg",
+            "size": {
+                "width": 838,
+                "height": 1256
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8bfa6bb438103fbba7ff6764d3e79ced": {
+            "format": "jpg",
+            "id": "8bfa6bb438103fbba7ff6764d3e79ced",
+            "name": "mei%20-%20q.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20q.jpg",
+            "size": {
+                "width": 919,
+                "height": 1379
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c0375144f7189361ab7f2b17b5baceff": {
+            "format": "jpg",
+            "id": "c0375144f7189361ab7f2b17b5baceff",
+            "name": "mei%20-%20r.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20r.jpg",
+            "size": {
+                "width": 880,
+                "height": 1320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "02672d34f4992d5791bf34547afa166c": {
+            "format": "jpg",
+            "id": "02672d34f4992d5791bf34547afa166c",
+            "name": "mei%20-%20s.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20s.jpg",
+            "size": {
+                "width": 837,
+                "height": 1257
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f6fccc71e6695f7ca230af59170427b5": {
+            "format": "jpg",
+            "id": "f6fccc71e6695f7ca230af59170427b5",
+            "name": "nana%20-%20a.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20a.jpg",
+            "size": {
+                "width": 1206,
+                "height": 1809
+            },
+            "state": 2,
+            "type": 1
+        },
+        "81fcfb451488ed416cffb7aa25933477": {
+            "format": "jpg",
+            "id": "81fcfb451488ed416cffb7aa25933477",
+            "name": "nana%20-%20b.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20b.jpg",
+            "size": {
+                "width": 1243,
+                "height": 1865
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e6fd0919ade0603d62ca448519277854": {
+            "format": "jpg",
+            "id": "e6fd0919ade0603d62ca448519277854",
+            "name": "nana%20-%20c.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20c.jpg",
+            "size": {
+                "width": 1321,
+                "height": 1982
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6dd9a33567aa5b99d18943f003a4ab2a": {
+            "format": "jpg",
+            "id": "6dd9a33567aa5b99d18943f003a4ab2a",
+            "name": "nana%20-%20d.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20d.jpg",
+            "size": {
+                "width": 1266,
+                "height": 1899
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cbf909e3d4cbb000519a427503805658": {
+            "format": "jpg",
+            "id": "cbf909e3d4cbb000519a427503805658",
+            "name": "nana%20-%20e.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20e.jpg",
+            "size": {
+                "width": 1199,
+                "height": 1799
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f616b794adc5d8246aa9fe2e67716584": {
+            "format": "jpg",
+            "id": "f616b794adc5d8246aa9fe2e67716584",
+            "name": "nana%20-%20f.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20f.jpg",
+            "size": {
+                "width": 1229,
+                "height": 1843
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aa8edce378ba9b4488d004a4793a88ef": {
+            "format": "jpg",
+            "id": "aa8edce378ba9b4488d004a4793a88ef",
+            "name": "nana%20-%20g.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20g.jpg",
+            "size": {
+                "width": 1254,
+                "height": 1881
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0773f27c9769b6cb72a2fc9cf5e39d2e": {
+            "format": "jpg",
+            "id": "0773f27c9769b6cb72a2fc9cf5e39d2e",
+            "name": "nana%20-%20h.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20h.jpg",
+            "size": {
+                "width": 1197,
+                "height": 1796
+            },
+            "state": 2,
+            "type": 1
+        },
+        "463ef2f9045e57aa1540a3f9a13aa018": {
+            "format": "jpg",
+            "id": "463ef2f9045e57aa1540a3f9a13aa018",
+            "name": "nana%20-%20i.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20i.jpg",
+            "size": {
+                "width": 1277,
+                "height": 1916
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fc999bfc146a27e3a179f45f4b9bdf73": {
+            "format": "jpg",
+            "id": "fc999bfc146a27e3a179f45f4b9bdf73",
+            "name": "nana%20-%20j.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20j.jpg",
+            "size": {
+                "width": 1290,
+                "height": 1935
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b4456c5d663b8519c9f1b40ea2dacb3b": {
+            "format": "jpg",
+            "id": "b4456c5d663b8519c9f1b40ea2dacb3b",
+            "name": "nana%20-%20k.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20k.jpg",
+            "size": {
+                "width": 1293,
+                "height": 1939
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cc18b97622f255a7c417c7931e2a8826": {
+            "format": "jpg",
+            "id": "cc18b97622f255a7c417c7931e2a8826",
+            "name": "nana%20-%20l.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20l.jpg",
+            "size": {
+                "width": 1235,
+                "height": 1852
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ed44044c35b3c30317e899717915782c": {
+            "format": "jpg",
+            "id": "ed44044c35b3c30317e899717915782c",
+            "name": "nana%20-%20m.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20m.jpg",
+            "size": {
+                "width": 1260,
+                "height": 1891
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6755ed43f68e5c1060122e1f5cf266e6": {
+            "format": "jpg",
+            "id": "6755ed43f68e5c1060122e1f5cf266e6",
+            "name": "nana%20-%20n.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20n.jpg",
+            "size": {
+                "width": 1244,
+                "height": 1866
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c0ae8aae621a8565cc50dc5e9609307b": {
+            "format": "jpg",
+            "id": "c0ae8aae621a8565cc50dc5e9609307b",
+            "name": "nana%20-%20o.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20o.jpg",
+            "size": {
+                "width": 1259,
+                "height": 1888
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a37da5165524dbbb5189f72656cfe096": {
+            "format": "jpg",
+            "id": "a37da5165524dbbb5189f72656cfe096",
+            "name": "nana%20-%20p.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20p.jpg",
+            "size": {
+                "width": 1244,
+                "height": 1866
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d48972c08ffeba47a8a96375297aca49": {
+            "format": "jpg",
+            "id": "d48972c08ffeba47a8a96375297aca49",
+            "name": "nana%20-%20q.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20q.jpg",
+            "size": {
+                "width": 1206,
+                "height": 1809
+            },
+            "state": 2,
+            "type": 1
+        },
+        "32e970c74320c33d6f75d2b9e686abf6": {
+            "format": "jpg",
+            "id": "32e970c74320c33d6f75d2b9e686abf6",
+            "name": "nana%20-%20r.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20r.jpg",
+            "size": {
+                "width": 1225,
+                "height": 1837
+            },
+            "state": 2,
+            "type": 1
+        },
+        "52725a732b63abd0c456fb7f63aa5a71": {
+            "format": "jpg",
+            "id": "52725a732b63abd0c456fb7f63aa5a71",
+            "name": "nana%20-%20s.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20s.jpg",
+            "size": {
+                "width": 1340,
+                "height": 2010
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1bebf48533806980ab1a71e735473088": {
+            "format": "jpg",
+            "id": "1bebf48533806980ab1a71e735473088",
+            "name": "nug%20-%20a.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20a.jpg",
+            "size": {
+                "width": 1029,
+                "height": 1544
+            },
+            "state": 2,
+            "type": 1
+        },
+        "84d72bff59239292a6d1ca592b865cbf": {
+            "format": "jpg",
+            "id": "84d72bff59239292a6d1ca592b865cbf",
+            "name": "nug%20-%20b.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20b.jpg",
+            "size": {
+                "width": 912,
+                "height": 1368
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9ad8534b603a610607ec938eeb8eddbe": {
+            "format": "jpg",
+            "id": "9ad8534b603a610607ec938eeb8eddbe",
+            "name": "nug%20-%20c.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20c.jpg",
+            "size": {
+                "width": 887,
+                "height": 1331
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fb9fb70dde17dec85e9dd52236043cca": {
+            "format": "jpg",
+            "id": "fb9fb70dde17dec85e9dd52236043cca",
+            "name": "nug%20-%20d.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20d.jpg",
+            "size": {
+                "width": 880,
+                "height": 1320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "978f9e8437fa77d8cab8925f89856006": {
+            "format": "jpg",
+            "id": "978f9e8437fa77d8cab8925f89856006",
+            "name": "nug%20-%20e.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20e.jpg",
+            "size": {
+                "width": 926,
+                "height": 1390
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4efa0eba06145b15c2df9b7f964d78a4": {
+            "format": "jpg",
+            "id": "4efa0eba06145b15c2df9b7f964d78a4",
+            "name": "nug%20-%20f.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20f.jpg",
+            "size": {
+                "width": 988,
+                "height": 1481
+            },
+            "state": 2,
+            "type": 1
+        },
+        "01487c75d7dde9034e0ec69e9d47baa2": {
+            "format": "jpg",
+            "id": "01487c75d7dde9034e0ec69e9d47baa2",
+            "name": "nug%20-%20g.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20g.jpg",
+            "size": {
+                "width": 980,
+                "height": 1470
+            },
+            "state": 2,
+            "type": 1
+        },
+        "857f84c485f3554d36d424736a7c2427": {
+            "format": "jpg",
+            "id": "857f84c485f3554d36d424736a7c2427",
+            "name": "nug%20-%20h.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20h.jpg",
+            "size": {
+                "width": 953,
+                "height": 1431
+            },
+            "state": 2,
+            "type": 1
+        },
+        "75352125434366fe66b61eb39454dfe1": {
+            "format": "jpg",
+            "id": "75352125434366fe66b61eb39454dfe1",
+            "name": "nug%20-%20i.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20i.jpg",
+            "size": {
+                "width": 880,
+                "height": 1320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b76449eaec1eb1e61f77a91ddfba9143": {
+            "format": "jpg",
+            "id": "b76449eaec1eb1e61f77a91ddfba9143",
+            "name": "nug%20-%20j.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20j.jpg",
+            "size": {
+                "width": 860,
+                "height": 1289
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dcbff1abb2f6e08f183c76eb52bd444f": {
+            "format": "jpg",
+            "id": "dcbff1abb2f6e08f183c76eb52bd444f",
+            "name": "nug%20-%20k.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20k.jpg",
+            "size": {
+                "width": 909,
+                "height": 1364
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f11a2ed47c606eb8ffafbdf1b156ec71": {
+            "format": "jpg",
+            "id": "f11a2ed47c606eb8ffafbdf1b156ec71",
+            "name": "nug%20-%20l.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20l.jpg",
+            "size": {
+                "width": 1122,
+                "height": 1682
+            },
+            "state": 2,
+            "type": 1
+        },
+        "501ec7e3e5cb915bfd00c1b5199ca7db": {
+            "format": "jpg",
+            "id": "501ec7e3e5cb915bfd00c1b5199ca7db",
+            "name": "nug%20-%20m.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20m.jpg",
+            "size": {
+                "width": 944,
+                "height": 1416
+            },
+            "state": 2,
+            "type": 1
+        },
+        "13bc4704d1b3863222d8bf406bf76d63": {
+            "format": "jpg",
+            "id": "13bc4704d1b3863222d8bf406bf76d63",
+            "name": "nug%20-%20n.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20n.jpg",
+            "size": {
+                "width": 1093,
+                "height": 1640
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3ea945ddad4f8ef88dd4a79fa85a52f1": {
+            "format": "jpg",
+            "id": "3ea945ddad4f8ef88dd4a79fa85a52f1",
+            "name": "nug%20-%20o.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20o.jpg",
+            "size": {
+                "width": 988,
+                "height": 1482
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7aa746e0981c5d3970fc3d49859b87d3": {
+            "format": "jpg",
+            "id": "7aa746e0981c5d3970fc3d49859b87d3",
+            "name": "nug%20-%20p.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20p.jpg",
+            "size": {
+                "width": 952,
+                "height": 1428
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8feb2f78b64fb4eaede0492a0df69dd9": {
+            "format": "jpg",
+            "id": "8feb2f78b64fb4eaede0492a0df69dd9",
+            "name": "nug%20-%20q.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20q.jpg",
+            "size": {
+                "width": 1119,
+                "height": 1677
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c8334f5c08cfc7e8ec65a12e83f45540": {
+            "format": "jpg",
+            "id": "c8334f5c08cfc7e8ec65a12e83f45540",
+            "name": "nug%20-%20r.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20r.jpg",
+            "size": {
+                "width": 895,
+                "height": 1341
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c193b1876e95fe84d9230aa1304bd790": {
+            "format": "jpg",
+            "id": "c193b1876e95fe84d9230aa1304bd790",
+            "name": "nug%20-%20s.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nug%20-%20s.jpg",
+            "size": {
+                "width": 1048,
+                "height": 1571
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a4ac6284ef6a3f7d5753376baea92708": {
+            "format": "jpg",
+            "id": "a4ac6284ef6a3f7d5753376baea92708",
+            "name": "pur%20-%20a.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20a.jpg",
+            "size": {
+                "width": 864,
+                "height": 1296
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b6b12d9f21449174742fbe084b87d795": {
+            "format": "jpg",
+            "id": "b6b12d9f21449174742fbe084b87d795",
+            "name": "pur%20-%20b.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20b.jpg",
+            "size": {
+                "width": 822,
+                "height": 1233
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e293ad3b728943327f67aaea32309d5e": {
+            "format": "jpg",
+            "id": "e293ad3b728943327f67aaea32309d5e",
+            "name": "pur%20-%20c.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20c.jpg",
+            "size": {
+                "width": 863,
+                "height": 1295
+            },
+            "state": 2,
+            "type": 1
+        },
+        "368f35c9b5c120c225703f69ea3d5891": {
+            "format": "jpg",
+            "id": "368f35c9b5c120c225703f69ea3d5891",
+            "name": "pur%20-%20d.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20d.jpg",
+            "size": {
+                "width": 866,
+                "height": 1299
+            },
+            "state": 2,
+            "type": 1
+        },
+        "85d0af004b7a137c346d283f799daecb": {
+            "format": "jpg",
+            "id": "85d0af004b7a137c346d283f799daecb",
+            "name": "pur%20-%20e.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20e.jpg",
+            "size": {
+                "width": 859,
+                "height": 1288
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bf2711d3598a410a0e082c2a65440afb": {
+            "format": "jpg",
+            "id": "bf2711d3598a410a0e082c2a65440afb",
+            "name": "pur%20-%20f.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20f.jpg",
+            "size": {
+                "width": 840,
+                "height": 1261
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a78d0551c500cd909c60fe18d206bfb2": {
+            "format": "jpg",
+            "id": "a78d0551c500cd909c60fe18d206bfb2",
+            "name": "pur%20-%20g.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20g.jpg",
+            "size": {
+                "width": 859,
+                "height": 1288
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3f2d62eea0f4fbcd0aa96a6a032b4e22": {
+            "format": "jpg",
+            "id": "3f2d62eea0f4fbcd0aa96a6a032b4e22",
+            "name": "pur%20-%20h.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20h.jpg",
+            "size": {
+                "width": 859,
+                "height": 1288
+            },
+            "state": 2,
+            "type": 1
+        },
+        "611f9b02514ccbf5154c43a84dc53c06": {
+            "format": "jpg",
+            "id": "611f9b02514ccbf5154c43a84dc53c06",
+            "name": "pur%20-%20i.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20i.jpg",
+            "size": {
+                "width": 863,
+                "height": 1294
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2e1e547e01fb7264a6c25471e2cd6b99": {
+            "format": "jpg",
+            "id": "2e1e547e01fb7264a6c25471e2cd6b99",
+            "name": "pur%20-%20j.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20j.jpg",
+            "size": {
+                "width": 896,
+                "height": 1344
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bdcbf5961d02633382f5a776275d5f42": {
+            "format": "jpg",
+            "id": "bdcbf5961d02633382f5a776275d5f42",
+            "name": "pur%20-%20k.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20k.jpg",
+            "size": {
+                "width": 914,
+                "height": 1372
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b9fec5ad6d65288dc7097be43e1364f7": {
+            "format": "jpg",
+            "id": "b9fec5ad6d65288dc7097be43e1364f7",
+            "name": "pur%20-%20l.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20l.jpg",
+            "size": {
+                "width": 890,
+                "height": 1334
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d93964144233acb7cd9cfd0b68518bb5": {
+            "format": "jpg",
+            "id": "d93964144233acb7cd9cfd0b68518bb5",
+            "name": "pur%20-%20m.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20m.jpg",
+            "size": {
+                "width": 859,
+                "height": 1288
+            },
+            "state": 2,
+            "type": 1
+        },
+        "efe984715cd1292d5bfda23bbef02c73": {
+            "format": "jpg",
+            "id": "efe984715cd1292d5bfda23bbef02c73",
+            "name": "pur%20-%20n.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20n.jpg",
+            "size": {
+                "width": 869,
+                "height": 1304
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c358efeb69359d8123d9667e914515a4": {
+            "format": "jpg",
+            "id": "c358efeb69359d8123d9667e914515a4",
+            "name": "pur%20-%20o.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20o.jpg",
+            "size": {
+                "width": 859,
+                "height": 1288
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ba5f365763fc17f414bb6ef2743c6ea1": {
+            "format": "jpg",
+            "id": "ba5f365763fc17f414bb6ef2743c6ea1",
+            "name": "pur%20-%20p.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20p.jpg",
+            "size": {
+                "width": 826,
+                "height": 1239
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8b0f1d21cac96de1a13c9effd1f246d9": {
+            "format": "jpg",
+            "id": "8b0f1d21cac96de1a13c9effd1f246d9",
+            "name": "pur%20-%20q.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20q.jpg",
+            "size": {
+                "width": 859,
+                "height": 1288
+            },
+            "state": 2,
+            "type": 1
+        },
+        "61567a84b8eb070147bafdede3ddf22a": {
+            "format": "jpg",
+            "id": "61567a84b8eb070147bafdede3ddf22a",
+            "name": "pur%20-%20r.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20r.jpg",
+            "size": {
+                "width": 859,
+                "height": 1288
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cfd19a030fb74e85a054eea40d44eee0": {
+            "format": "jpg",
+            "id": "cfd19a030fb74e85a054eea40d44eee0",
+            "name": "pur%20-%20s.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/pur%20-%20s.jpg",
+            "size": {
+                "width": 866,
+                "height": 1300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cb4ca518b35db6f66bfa981ac811eb6d": {
+            "format": "jpg",
+            "id": "cb4ca518b35db6f66bfa981ac811eb6d",
+            "name": "puy%20-%20a.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20a.jpg",
+            "size": {
+                "width": 1039,
+                "height": 1559
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9d9cc8e0e8b85a6ccb047a972182f0cf": {
+            "format": "jpg",
+            "id": "9d9cc8e0e8b85a6ccb047a972182f0cf",
+            "name": "puy%20-%20b.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20b.jpg",
+            "size": {
+                "width": 1005,
+                "height": 1507
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6e90a6f6edc769c74b34044aeea757ae": {
+            "format": "jpg",
+            "id": "6e90a6f6edc769c74b34044aeea757ae",
+            "name": "puy%20-%20c.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20c.jpg",
+            "size": {
+                "width": 1047,
+                "height": 1571
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8c31dd4ea5929432aba13d33a55ed768": {
+            "format": "jpg",
+            "id": "8c31dd4ea5929432aba13d33a55ed768",
+            "name": "puy%20-%20d.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20d.jpg",
+            "size": {
+                "width": 1013,
+                "height": 1520
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f3ebec49726f40f095271014ad809f42": {
+            "format": "jpg",
+            "id": "f3ebec49726f40f095271014ad809f42",
+            "name": "puy%20-%20e.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20e.jpg",
+            "size": {
+                "width": 994,
+                "height": 1491
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6c3556a429e933d7881f897b07ca4dc0": {
+            "format": "jpg",
+            "id": "6c3556a429e933d7881f897b07ca4dc0",
+            "name": "puy%20-%20f.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20f.jpg",
+            "size": {
+                "width": 1002,
+                "height": 1503
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d281635f97bcfb615f6f1dbe2a6eb87d": {
+            "format": "jpg",
+            "id": "d281635f97bcfb615f6f1dbe2a6eb87d",
+            "name": "puy%20-%20g.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20g.jpg",
+            "size": {
+                "width": 1014,
+                "height": 1521
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0ccca82576c3a094174575172c13a470": {
+            "format": "jpg",
+            "id": "0ccca82576c3a094174575172c13a470",
+            "name": "puy%20-%20h.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20h.jpg",
+            "size": {
+                "width": 1007,
+                "height": 1510
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a2d0d2202ab18e76cb6fdef23e41a144": {
+            "format": "jpg",
+            "id": "a2d0d2202ab18e76cb6fdef23e41a144",
+            "name": "puy%20-%20i.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20i.jpg",
+            "size": {
+                "width": 1017,
+                "height": 1525
+            },
+            "state": 2,
+            "type": 1
+        },
+        "82bdc482b49b37e936f1af545a16ac52": {
+            "format": "jpg",
+            "id": "82bdc482b49b37e936f1af545a16ac52",
+            "name": "puy%20-%20j.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20j.jpg",
+            "size": {
+                "width": 1099,
+                "height": 1649
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aab844c079404eaf6bfa52aece5f1e42": {
+            "format": "jpg",
+            "id": "aab844c079404eaf6bfa52aece5f1e42",
+            "name": "puy%20-%20k.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20k.jpg",
+            "size": {
+                "width": 1022,
+                "height": 1534
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c22d68b0a0d81f1ca0711ec27fa39d91": {
+            "format": "jpg",
+            "id": "c22d68b0a0d81f1ca0711ec27fa39d91",
+            "name": "puy%20-%20l.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20l.jpg",
+            "size": {
+                "width": 1014,
+                "height": 1522
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d7ff9425b2281396fb855183b8862645": {
+            "format": "jpg",
+            "id": "d7ff9425b2281396fb855183b8862645",
+            "name": "puy%20-%20m.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20m.jpg",
+            "size": {
+                "width": 1022,
+                "height": 1533
+            },
+            "state": 2,
+            "type": 1
+        },
+        "93dc46544284de5aaf65072fc0cb0a3d": {
+            "format": "jpg",
+            "id": "93dc46544284de5aaf65072fc0cb0a3d",
+            "name": "puy%20-%20n.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20n.jpg",
+            "size": {
+                "width": 1022,
+                "height": 1533
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a853af5291a40e2d86be8abeee5ffcbd": {
+            "format": "jpg",
+            "id": "a853af5291a40e2d86be8abeee5ffcbd",
+            "name": "puy%20-%20o.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20o.jpg",
+            "size": {
+                "width": 975,
+                "height": 1462
+            },
+            "state": 2,
+            "type": 1
+        },
+        "58aea41d2e1e50237900d1f539161066": {
+            "format": "jpg",
+            "id": "58aea41d2e1e50237900d1f539161066",
+            "name": "puy%20-%20p.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20p.jpg",
+            "size": {
+                "width": 1039,
+                "height": 1559
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e848f86d955ed9d09144d15f68a1535d": {
+            "format": "jpg",
+            "id": "e848f86d955ed9d09144d15f68a1535d",
+            "name": "puy%20-%20q.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20q.jpg",
+            "size": {
+                "width": 1032,
+                "height": 1548
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5c4976839e12d4ce42c23ab478996b77": {
+            "format": "jpg",
+            "id": "5c4976839e12d4ce42c23ab478996b77",
+            "name": "puy%20-%20r.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20r.jpg",
+            "size": {
+                "width": 945,
+                "height": 1418
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ef4bbfc621acb25884f071f573f681f4": {
+            "format": "jpg",
+            "id": "ef4bbfc621acb25884f071f573f681f4",
+            "name": "puy%20-%20s.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/puy%20-%20s.jpg",
+            "size": {
+                "width": 1047,
+                "height": 1571
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1018be0ab5c9c331f0fe1cb474c86073": {
+            "format": "jpg",
+            "id": "1018be0ab5c9c331f0fe1cb474c86073",
+            "name": "reni%20-%20a.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20a.jpg",
+            "size": {
+                "width": 1026,
+                "height": 1538
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aa459f09a8b44d2b73507e9606221120": {
+            "format": "jpg",
+            "id": "aa459f09a8b44d2b73507e9606221120",
+            "name": "reni%20-%20b.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20b.jpg",
+            "size": {
+                "width": 900,
+                "height": 1349
+            },
+            "state": 2,
+            "type": 1
+        },
+        "65baa7c6d0c492c0910388e9bc503dfa": {
+            "format": "jpg",
+            "id": "65baa7c6d0c492c0910388e9bc503dfa",
+            "name": "reni%20-%20c.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20c.jpg",
+            "size": {
+                "width": 850,
+                "height": 1276
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9e699b26808031a12dcc480cdeca2326": {
+            "format": "jpg",
+            "id": "9e699b26808031a12dcc480cdeca2326",
+            "name": "reni%20-%20d.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20d.jpg",
+            "size": {
+                "width": 939,
+                "height": 1408
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8443391d9c606c26282ecdeda094e528": {
+            "format": "jpg",
+            "id": "8443391d9c606c26282ecdeda094e528",
+            "name": "reni%20-%20e.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20e.jpg",
+            "size": {
+                "width": 876,
+                "height": 1314
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b8f13751b10fb6221fec7ca100e2382f": {
+            "format": "jpg",
+            "id": "b8f13751b10fb6221fec7ca100e2382f",
+            "name": "reni%20-%20f.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20f.jpg",
+            "size": {
+                "width": 891,
+                "height": 1337
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c4a775b3ebcd003ed28655fc30f589b3": {
+            "format": "jpg",
+            "id": "c4a775b3ebcd003ed28655fc30f589b3",
+            "name": "reni%20-%20g.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20g.jpg",
+            "size": {
+                "width": 872,
+                "height": 1307
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f1b35a932616b6583cf37b7a8f6a7223": {
+            "format": "jpg",
+            "id": "f1b35a932616b6583cf37b7a8f6a7223",
+            "name": "reni%20-%20h.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20h.jpg",
+            "size": {
+                "width": 944,
+                "height": 1416
+            },
+            "state": 2,
+            "type": 1
+        },
+        "67ac78d6274f94f9362631116544eb4b": {
+            "format": "jpg",
+            "id": "67ac78d6274f94f9362631116544eb4b",
+            "name": "reni%20-%20i.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20i.jpg",
+            "size": {
+                "width": 899,
+                "height": 1349
+            },
+            "state": 2,
+            "type": 1
+        },
+        "01919d21f750a350d4f230b9ad676700": {
+            "format": "jpg",
+            "id": "01919d21f750a350d4f230b9ad676700",
+            "name": "reni%20-%20j.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20j.jpg",
+            "size": {
+                "width": 947,
+                "height": 1420
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1fb1782082933da915590ba18bfb79bf": {
+            "format": "jpg",
+            "id": "1fb1782082933da915590ba18bfb79bf",
+            "name": "reni%20-%20k.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20k.jpg",
+            "size": {
+                "width": 923,
+                "height": 1384
+            },
+            "state": 2,
+            "type": 1
+        },
+        "120383f76bb25c4efde98befec7acd60": {
+            "format": "jpg",
+            "id": "120383f76bb25c4efde98befec7acd60",
+            "name": "reni%20-%20l.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20l.jpg",
+            "size": {
+                "width": 961,
+                "height": 1442
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2249de69a8f85457ee5b8b15ff4e0e2e": {
+            "format": "jpg",
+            "id": "2249de69a8f85457ee5b8b15ff4e0e2e",
+            "name": "reni%20-%20m.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20m.jpg",
+            "size": {
+                "width": 938,
+                "height": 1407
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e31f9ad02d51cb5ac9e0e4103c3fb3a0": {
+            "format": "jpg",
+            "id": "e31f9ad02d51cb5ac9e0e4103c3fb3a0",
+            "name": "reni%20-%20n.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20n.jpg",
+            "size": {
+                "width": 929,
+                "height": 1393
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a22e90eee8f63ce405a2b92aeb011ed9": {
+            "format": "jpg",
+            "id": "a22e90eee8f63ce405a2b92aeb011ed9",
+            "name": "reni%20-%20o.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20o.jpg",
+            "size": {
+                "width": 871,
+                "height": 1306
+            },
+            "state": 2,
+            "type": 1
+        },
+        "beea7ecd38ebbc75e65408bb97554e20": {
+            "format": "jpg",
+            "id": "beea7ecd38ebbc75e65408bb97554e20",
+            "name": "reni%20-%20p.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20p.jpg",
+            "size": {
+                "width": 881,
+                "height": 1320
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6f29ea569f78001fc051e6b7674b4c7d": {
+            "format": "jpg",
+            "id": "6f29ea569f78001fc051e6b7674b4c7d",
+            "name": "reni%20-%20q.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20q.jpg",
+            "size": {
+                "width": 855,
+                "height": 1282
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cd691109fceecf48351652d400b014aa": {
+            "format": "jpg",
+            "id": "cd691109fceecf48351652d400b014aa",
+            "name": "reni%20-%20r.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20r.jpg",
+            "size": {
+                "width": 952,
+                "height": 1428
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9e9dd06afc0ee198c454ce9c0fd726f0": {
+            "format": "jpg",
+            "id": "9e9dd06afc0ee198c454ce9c0fd726f0",
+            "name": "reni%20-%20s.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/reni%20-%20s.jpg",
+            "size": {
+                "width": 835,
+                "height": 1254
+            },
+            "state": 2,
+            "type": 1
+        },
+        "19860cb7d5c8a82a2b8f6acf1d7d2e1e": {
+            "format": "jpg",
+            "id": "19860cb7d5c8a82a2b8f6acf1d7d2e1e",
+            "name": "sasen%20-%20a.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20a.jpg",
+            "size": {
+                "width": 1400,
+                "height": 2099
+            },
+            "state": 2,
+            "type": 1
+        },
+        "19d13b709795646cdaba0c083fb6000a": {
+            "format": "jpg",
+            "id": "19d13b709795646cdaba0c083fb6000a",
+            "name": "sasen%20-%20b.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20b.jpg",
+            "size": {
+                "width": 1355,
+                "height": 2032
+            },
+            "state": 2,
+            "type": 1
+        },
+        "34fbbf09a648a4765e9609b1f9fadbd4": {
+            "format": "jpg",
+            "id": "34fbbf09a648a4765e9609b1f9fadbd4",
+            "name": "sasen%20-%20c.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20c.jpg",
+            "size": {
+                "width": 1369,
+                "height": 2053
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8ab42d7d65217e59e4139cbbd876daef": {
+            "format": "jpg",
+            "id": "8ab42d7d65217e59e4139cbbd876daef",
+            "name": "sasen%20-%20d.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20d.jpg",
+            "size": {
+                "width": 1352,
+                "height": 2029
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1f3d3dcf7e8b8a2ec9ed781fa9a67321": {
+            "format": "jpg",
+            "id": "1f3d3dcf7e8b8a2ec9ed781fa9a67321",
+            "name": "sasen%20-%20e.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20e.jpg",
+            "size": {
+                "width": 1430,
+                "height": 2145
+            },
+            "state": 2,
+            "type": 1
+        },
+        "709eaa43bb6169a199806998e77e77ce": {
+            "format": "jpg",
+            "id": "709eaa43bb6169a199806998e77e77ce",
+            "name": "sasen%20-%20f.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20f.jpg",
+            "size": {
+                "width": 1442,
+                "height": 2164
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f3b6d18bd0cd4d9d6d23f2e69ef71878": {
+            "format": "jpg",
+            "id": "f3b6d18bd0cd4d9d6d23f2e69ef71878",
+            "name": "sasen%20-%20g.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20g.jpg",
+            "size": {
+                "width": 1480,
+                "height": 2220
+            },
+            "state": 2,
+            "type": 1
+        },
+        "639f5a9e709cde492e4af4d71b24f286": {
+            "format": "jpg",
+            "id": "639f5a9e709cde492e4af4d71b24f286",
+            "name": "sasen%20-%20h.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20h.jpg",
+            "size": {
+                "width": 1439,
+                "height": 2158
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cec53e029ee689995fb8051ad2163a81": {
+            "format": "jpg",
+            "id": "cec53e029ee689995fb8051ad2163a81",
+            "name": "sasen%20-%20i.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20i.jpg",
+            "size": {
+                "width": 1394,
+                "height": 2092
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cbb8c2dfd704409eb041a50ace0e7a3a": {
+            "format": "jpg",
+            "id": "cbb8c2dfd704409eb041a50ace0e7a3a",
+            "name": "sasen%20-%20j.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20j.jpg",
+            "size": {
+                "width": 1475,
+                "height": 2213
+            },
+            "state": 2,
+            "type": 1
+        },
+        "94d1cb8618d5dda5b8caf30b546d1fc1": {
+            "format": "jpg",
+            "id": "94d1cb8618d5dda5b8caf30b546d1fc1",
+            "name": "sasen%20-%20k.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20k.jpg",
+            "size": {
+                "width": 1329,
+                "height": 1994
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b1f854fedaef5eb02a8567db0e8bc3f7": {
+            "format": "jpg",
+            "id": "b1f854fedaef5eb02a8567db0e8bc3f7",
+            "name": "sasen%20-%20l.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20l.jpg",
+            "size": {
+                "width": 1335,
+                "height": 2003
+            },
+            "state": 2,
+            "type": 1
+        },
+        "13dbc7a16b83342b8605c2104416326b": {
+            "format": "jpg",
+            "id": "13dbc7a16b83342b8605c2104416326b",
+            "name": "sasen%20-%20m.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20m.jpg",
+            "size": {
+                "width": 1524,
+                "height": 2286
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b2de5f746c1d90fa9e71013e112687e2": {
+            "format": "jpg",
+            "id": "b2de5f746c1d90fa9e71013e112687e2",
+            "name": "sasen%20-%20n.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20n.jpg",
+            "size": {
+                "width": 1310,
+                "height": 1965
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a8766bbd076f77dee32795170d26cd2b": {
+            "format": "jpg",
+            "id": "a8766bbd076f77dee32795170d26cd2b",
+            "name": "sasen%20-%20o.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20o.jpg",
+            "size": {
+                "width": 1417,
+                "height": 2125
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f298338d5cda49cf0276090235edff2a": {
+            "format": "jpg",
+            "id": "f298338d5cda49cf0276090235edff2a",
+            "name": "sasen%20-%20p.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20p.jpg",
+            "size": {
+                "width": 1466,
+                "height": 2200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4ac5e39daba1dd139b19520f8eb70acc": {
+            "format": "jpg",
+            "id": "4ac5e39daba1dd139b19520f8eb70acc",
+            "name": "sasen%20-%20q.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20q.jpg",
+            "size": {
+                "width": 1352,
+                "height": 2028
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9085745f7c17c23dad0a055a7f17f215": {
+            "format": "jpg",
+            "id": "9085745f7c17c23dad0a055a7f17f215",
+            "name": "sasen%20-%20r.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20r.jpg",
+            "size": {
+                "width": 1486,
+                "height": 2230
+            },
+            "state": 2,
+            "type": 1
+        },
+        "205ff34a163c308772bf47287d4eab5e": {
+            "format": "jpg",
+            "id": "205ff34a163c308772bf47287d4eab5e",
+            "name": "sasen%20-%20s.jpg",
+            "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/sasen%20-%20s.jpg",
+            "size": {
+                "width": 1288,
+                "height": 1932
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

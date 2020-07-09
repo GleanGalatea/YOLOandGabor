@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "9a6bc07d8cabefe393df32a8913f4a4b",
+        "name": "hilmi%20-%20r.jpg",
+        "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20r.jpg",
+        "size": {
+            "width": 820,
+            "height": 1231
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "x8fiwLDsi",
+            "type": "RECTANGLE",
+            "tags": [
+                "Face"
+            ],
+            "boundingBox": {
+                "height": 371.7376237623762,
+                "width": 381.04089219330854,
+                "left": 231.6728624535316,
+                "top": 203.91294090346534
+            },
+            "points": [
+                {
+                    "x": 231.6728624535316,
+                    "y": 203.91294090346534
+                },
+                {
+                    "x": 612.7137546468401,
+                    "y": 203.91294090346534
+                },
+                {
+                    "x": 612.7137546468401,
+                    "y": 575.6505646658416
+                },
+                {
+                    "x": 231.6728624535316,
+                    "y": 575.6505646658416
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

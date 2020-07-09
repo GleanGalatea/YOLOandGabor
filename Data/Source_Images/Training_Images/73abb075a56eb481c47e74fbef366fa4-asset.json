@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "73abb075a56eb481c47e74fbef366fa4",
+        "name": "dela%20-%20a.jpg",
+        "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dela%20-%20a.jpg",
+        "size": {
+            "width": 968,
+            "height": 1452
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "yprxWpn20",
+            "type": "RECTANGLE",
+            "tags": [
+                "Face"
+            ],
+            "boundingBox": {
+                "height": 387.49693251533745,
+                "width": 334.1408045977012,
+                "left": 400.20402298850564,
+                "top": 247.19631901840492
+            },
+            "points": [
+                {
+                    "x": 400.20402298850564,
+                    "y": 247.19631901840492
+                },
+                {
+                    "x": 734.3448275862069,
+                    "y": 247.19631901840492
+                },
+                {
+                    "x": 734.3448275862069,
+                    "y": 634.6932515337423
+                },
+                {
+                    "x": 400.20402298850564,
+                    "y": 634.6932515337423
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

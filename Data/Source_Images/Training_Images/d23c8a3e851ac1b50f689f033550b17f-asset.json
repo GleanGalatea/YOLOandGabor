@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d23c8a3e851ac1b50f689f033550b17f",
+        "name": "fachrul%20-%20l.jpg",
+        "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/fachrul%20-%20l.jpg",
+        "size": {
+            "width": 940,
+            "height": 1409
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "J290GHSrk",
+            "type": "RECTANGLE",
+            "tags": [
+                "Face"
+            ],
+            "boundingBox": {
+                "height": 426.545905707196,
+                "width": 415.8364312267658,
+                "left": 262.08178438661713,
+                "top": 208.4109413771712
+            },
+            "points": [
+                {
+                    "x": 262.08178438661713,
+                    "y": 208.4109413771712
+                },
+                {
+                    "x": 677.9182156133829,
+                    "y": 208.4109413771712
+                },
+                {
+                    "x": 677.9182156133829,
+                    "y": 634.9568470843672
+                },
+                {
+                    "x": 262.08178438661713,
+                    "y": 634.9568470843672
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

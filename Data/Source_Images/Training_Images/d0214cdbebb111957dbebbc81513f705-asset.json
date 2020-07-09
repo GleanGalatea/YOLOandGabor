@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d0214cdbebb111957dbebbc81513f705",
+        "name": "dimas%20-%20f.jpg",
+        "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dimas%20-%20f.jpg",
+        "size": {
+            "width": 1103,
+            "height": 1654
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "wYPWdlwpo",
+            "type": "RECTANGLE",
+            "tags": [
+                "Face"
+            ],
+            "boundingBox": {
+                "height": 481.9938650306748,
+                "width": 456.41379310344826,
+                "left": 314.1806752873563,
+                "top": 230.84969325153372
+            },
+            "points": [
+                {
+                    "x": 314.1806752873563,
+                    "y": 230.84969325153372
+                },
+                {
+                    "x": 770.5944683908045,
+                    "y": 230.84969325153372
+                },
+                {
+                    "x": 770.5944683908045,
+                    "y": 712.8435582822085
+                },
+                {
+                    "x": 314.1806752873563,
+                    "y": 712.8435582822085
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

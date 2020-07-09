@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "8bfa6bb438103fbba7ff6764d3e79ced",
+        "name": "mei%20-%20q.jpg",
+        "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20q.jpg",
+        "size": {
+            "width": 919,
+            "height": 1379
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "brBKTokNs",
+            "type": "RECTANGLE",
+            "tags": [
+                "Face"
+            ],
+            "boundingBox": {
+                "height": 447.1509900990099,
+                "width": 252.8104089219331,
+                "left": 222.0631970260223,
+                "top": 153.01481280940595
+            },
+            "points": [
+                {
+                    "x": 222.0631970260223,
+                    "y": 153.01481280940595
+                },
+                {
+                    "x": 474.8736059479554,
+                    "y": 153.01481280940595
+                },
+                {
+                    "x": 474.8736059479554,
+                    "y": 600.1658029084159
+                },
+                {
+                    "x": 222.0631970260223,
+                    "y": 600.1658029084159
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

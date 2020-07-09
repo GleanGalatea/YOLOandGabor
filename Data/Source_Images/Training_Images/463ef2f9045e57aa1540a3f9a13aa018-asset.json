@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "463ef2f9045e57aa1540a3f9a13aa018",
+        "name": "nana%20-%20i.jpg",
+        "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/nana%20-%20i.jpg",
+        "size": {
+            "width": 1277,
+            "height": 1916
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "HKI3XkuYo",
+            "type": "RECTANGLE",
+            "tags": [
+                "Face"
+            ],
+            "boundingBox": {
+                "height": 614.1779141104295,
+                "width": 460.89425287356323,
+                "left": 375.11875000000003,
+                "top": 120.48466257668711
+            },
+            "points": [
+                {
+                    "x": 375.11875000000003,
+                    "y": 120.48466257668711
+                },
+                {
+                    "x": 836.0130028735632,
+                    "y": 120.48466257668711
+                },
+                {
+                    "x": 836.0130028735632,
+                    "y": 734.6625766871166
+                },
+                {
+                    "x": 375.11875000000003,
+                    "y": 734.6625766871166
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

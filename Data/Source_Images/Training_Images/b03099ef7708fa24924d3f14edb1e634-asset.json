@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "b03099ef7708fa24924d3f14edb1e634",
+        "name": "dina%20-%20n.jpg",
+        "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/dina%20-%20n.jpg",
+        "size": {
+            "width": 915,
+            "height": 1373
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "XAgmjAe9R",
+            "type": "RECTANGLE",
+            "tags": [
+                "Face"
+            ],
+            "boundingBox": {
+                "height": 452.7530674846626,
+                "width": 294.48275862068965,
+                "left": 203.54148706896552,
+                "top": 181.10122699386505
+            },
+            "points": [
+                {
+                    "x": 203.54148706896552,
+                    "y": 181.10122699386505
+                },
+                {
+                    "x": 498.0242456896552,
+                    "y": 181.10122699386505
+                },
+                {
+                    "x": 498.0242456896552,
+                    "y": 633.8542944785277
+                },
+                {
+                    "x": 203.54148706896552,
+                    "y": 633.8542944785277
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "d8046f486e422d8d4ceaef2bb97f3971",
+        "name": "khey%20-%20s.jpg",
+        "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/khey%20-%20s.jpg",
+        "size": {
+            "width": 904,
+            "height": 1356
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "IkpY1alMw",
+            "type": "RECTANGLE",
+            "tags": [
+                "Face"
+            ],
+            "boundingBox": {
+                "height": 446.4059405940594,
+                "width": 332.69888475836433,
+                "left": 198.275092936803,
+                "top": 163.62623762376236
+            },
+            "points": [
+                {
+                    "x": 198.275092936803,
+                    "y": 163.62623762376236
+                },
+                {
+                    "x": 530.9739776951673,
+                    "y": 163.62623762376236
+                },
+                {
+                    "x": 530.9739776951673,
+                    "y": 610.0321782178218
+                },
+                {
+                    "x": 198.275092936803,
+                    "y": 610.0321782178218
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

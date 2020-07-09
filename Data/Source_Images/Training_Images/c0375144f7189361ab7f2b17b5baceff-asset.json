@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "c0375144f7189361ab7f2b17b5baceff",
+        "name": "mei%20-%20r.jpg",
+        "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/mei%20-%20r.jpg",
+        "size": {
+            "width": 880,
+            "height": 1320
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "v5ejNAKak",
+            "type": "RECTANGLE",
+            "tags": [
+                "Face"
+            ],
+            "boundingBox": {
+                "height": 441.90594059405936,
+                "width": 323.8661710037175,
+                "left": 314.05204460966536,
+                "top": 133.1435643564356
+            },
+            "points": [
+                {
+                    "x": 314.05204460966536,
+                    "y": 133.1435643564356
+                },
+                {
+                    "x": 637.9182156133829,
+                    "y": 133.1435643564356
+                },
+                {
+                    "x": 637.9182156133829,
+                    "y": 575.049504950495
+                },
+                {
+                    "x": 314.05204460966536,
+                    "y": 575.049504950495
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

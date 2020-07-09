@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "869719be1e06a44403e909ad756ea03f",
+        "name": "hilmi%20-%20i.jpg",
+        "path": "file:C:/Python27/YOLO%20+%20GABOR/Data/Source_Images/Training_Images/hilmi%20-%20i.jpg",
+        "size": {
+            "width": 838,
+            "height": 1256
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "KLMtn_enh",
+            "type": "RECTANGLE",
+            "tags": [
+                "Face"
+            ],
+            "boundingBox": {
+                "height": 339.712158808933,
+                "width": 348.90706319702605,
+                "left": 249.2193308550186,
+                "top": 176.3815136476427
+            },
+            "points": [
+                {
+                    "x": 249.2193308550186,
+                    "y": 176.3815136476427
+                },
+                {
+                    "x": 598.1263940520446,
+                    "y": 176.3815136476427
+                },
+                {
+                    "x": 598.1263940520446,
+                    "y": 516.0936724565757
+                },
+                {
+                    "x": 249.2193308550186,
+                    "y": 516.0936724565757
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

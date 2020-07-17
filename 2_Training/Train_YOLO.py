@@ -58,8 +58,8 @@ from Train_Utils import (
 
 keras_path = os.path.join(src_path, "keras_yolo3")
 Data_Folder = os.path.join(get_parent_dir(1), "Data")
-Image_Folder = os.path.join(Data_Folder, "Source_Images", "Training_Images")
-VoTT_Folder = os.path.join(Image_Folder, "vott-csv-export")
+Image_Folder = os.path.join(Data_Folder, "Source_Images", "Training_Images_Kaggle")
+VoTT_Folder = os.path.join(Image_Folder, "json-csv-export")
 YOLO_filename = os.path.join(VoTT_Folder, "data_train.txt")
 
 Model_Folder = os.path.join(Data_Folder, "Model_Weights")
@@ -170,9 +170,9 @@ if __name__ == "__main__":
         save_best_only=True,
         period=5,
     )
-    reduce_lr = ReduceLROnPlateau(monitor="val_loss", factor=0.1, patience=2, verbose=1)
+    reduce_lr = ReduceLROnPlateau(monitor="val_loss", factor=0.1, patience=3, verbose=1)
     early_stopping = EarlyStopping(
-        monitor="val_loss", min_delta=0, patience=5, verbose=1
+        monitor="val_loss", min_delta=0, patience=10, verbose=1
     )
 
     val_split = FLAGS.val_split

@@ -21,9 +21,9 @@ from Convert_Format import convert_vott_csv_to_yolo
 
 Data_Folder = os.path.join(get_parent_dir(1), "Data")
 VoTT_Folder = os.path.join(
-    Data_Folder, "Source_Images", "Training_Images", "vott-csv-export"
+    Data_Folder, "Source_Images", "Training_Images_Kaggle", "Filtered_Image"
 )
-VoTT_csv = os.path.join(VoTT_Folder, "Annotations-export.csv")
+VoTT_csv = os.path.join(VoTT_Folder, "Annotation-export-filtered.csv")
 YOLO_filename = os.path.join(VoTT_Folder, "data_train.txt")
 
 model_folder = os.path.join(Data_Folder, "Model_Weights")

@@ -8,7 +8,11 @@ from PIL import Image
 from tqdm import tqdm
 from io import BytesIO
 import os
+import cv2
+import time
+import csv
 
+# Credits : https://github.com/AntonMu/TrainYourOwnYOLO
 def convert_vott_csv_to_yolo(
     vott_df,
     labeldict=dict(zip(["Cat_Face"], [0,])),
@@ -77,10 +81,7 @@ for data in tqdm(jsonData):
     img = np.asarray(Image.open(BytesIO(response.content)))
     images.append([img, data["annotation"]])
 
-import cv2
-import time
-import csv
-
+# Credits : https://www.kaggle.com/kevinpatel04/convert-json-annotation-to-csv
 count = 1
 totalfaces = 0
 start = time.time()
@@ -102,11 +103,9 @@ with open(CSVPATH, 'w', newline='') as file:
                 y2 = round(height*points[1]['y'])
                 label = data['label']
                 writer.writerow([filename, x1, y1, x2, y2, label])
-                #cv2.rectangle(img, (x1, y1), (x2, y2), (0, 0, 255), 1)
                 totalfaces += 1
             
         cv2.imwrite('{}\\face_image_{}.jpg'.format(IMAGEPATH, count), img)
-        #cv2.imwrite('/kaggle/output/face-detection-images/face_image_{}.jpg'.format(count),img)
         count += 1
     
 end = time.time()

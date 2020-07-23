@@ -59,7 +59,7 @@ from Train_Utils import (
 keras_path = os.path.join(src_path, "keras_yolo3")
 Data_Folder = os.path.join(get_parent_dir(1), "Data")
 Image_Folder = os.path.join(Data_Folder, "Source_Images", "Training_Images_Kaggle")
-VoTT_Folder = os.path.join(Image_Folder, "json-csv-export")
+VoTT_Folder = os.path.join(Image_Folder, "Filtered_Image")
 YOLO_filename = os.path.join(VoTT_Folder, "data_train.txt")
 
 Model_Folder = os.path.join(Data_Folder, "Model_Weights")
